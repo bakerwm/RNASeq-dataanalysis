@@ -24,7 +24,7 @@ _(it should be *.putty for versions before v3.3.3)_
 
 Move the two files to your $Home (~/) dir for easy use.
 
-	```
+```
 cp ~/.aspera/connect/bin/ascp  ~/
 cp ~/.aspera/connect/etc/asperaweb_id_dsa.openssh  ~/
 ```
@@ -59,4 +59,13 @@ ascp -i asperaweb_id_dsa.openssh  era-fasp@fasp.sra.ebi.ac.uk:/vol1/fastq/SRR346
 
 **We can try the para for faster speed:  -QT -l 100M
 
+## @Windows
 
+### 1. Install Aspera connect
+
+* Download executable file for windows:
+http://downloads.asperasoft.com/connect2/
+* Run the file
+
+### 2. Download NCBI files
+* Go to http://www.ncbi.nlm.nih.gov/public/
