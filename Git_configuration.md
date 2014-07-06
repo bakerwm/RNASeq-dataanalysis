@@ -15,14 +15,14 @@ Start Github and using Git SSH
     ssh-keygen  -t rsa  -C "wangmcas@gmail.com"
     \\# Create privite and public keys for the Email account
 ```
-    * Record the file **id_rsa.pub** in direcotry "**.ssh**"
+    * Record the file **id_rsa.pub** in direcotry **.ssh**
 
 4. Setting the Github website
     *  Account Settings -> SSH keys -> Add SSH key
     *  Paste the content of **id_rsa.pub** to the window.
 
 5. Setting the local git ssh
-    ```
+	```
 git config --global user.email  "wangmcas@gmail.com"
 git config --global user.name "bakerwm"
 ```
@@ -43,7 +43,7 @@ git config --global user.name "bakerwm"
 ```
 
 ### Options 2: Clone a online repo to local PC
-    ```
+		```
     git clone  git@github.com:bakerwm/hello.git
     Create local files
     git add <local files>
@@ -52,7 +52,7 @@ git config --global user.name "bakerwm"
 ```
 
 ### Options 3: Update my local files
-	```
+		```
     \\# Modify/Create the local files
     git add <your files>
     git commit -m 'update files'
