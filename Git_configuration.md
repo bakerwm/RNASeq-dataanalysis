@@ -9,7 +9,7 @@
 
 3. Configure the SSH connection with remote github
     * Run the Git bash, and create SSH keys
-		```
+```
 	    ssh-keygen  -t rsa  -C "wangmcas@gmail.com"
 ```
 	Create privite and public keys for the Email account
@@ -21,7 +21,7 @@
 
 5. Setting the local git ssh
     * Run the following command lines
-		```
+```
 	git config --global user.email  "wangmcas@gmail.com"
 	git config --global user.name "bakerwm"
 ```
@@ -29,10 +29,10 @@
 ## How to use Git Bash?
 ### Options 1: Upload local files to Github web repo
 
-1. Create an empty repo on Github website: [eg: *test-temp*]
+* Create an empty repo on Github website: [eg: *test-temp*]
 
-2. Initiate the git bash
-		```
+* Initiate the git bash
+```
     git init
     \\ Move your files to the current directory
     git add  <your files>
@@ -42,7 +42,9 @@
 ```
 
 ### Options 2: Clone a Web repo to local PC
-		```
+* Record the name of web repo: [eg: *hello*]
+* Clone the web repo to local PC and update your files
+```
     git clone  git@github.com:bakerwm/hello.git
     Create local files
     git add <local files>
@@ -51,8 +53,9 @@
 ```
 
 ### Options 3: Update my local files
-		```
-    \\ Modify/Create the local files
+* cd to your directory
+* update your files to web repo 
+```
     git add <your files>
     git commit -m 'update files'
     git push origin master
