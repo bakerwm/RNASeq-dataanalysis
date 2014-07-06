@@ -27,6 +27,11 @@
 	git config --global user.email "wangmcas@gmail.com"
 	git config --global user.name  "bakerwm"
 ```
+6. Test your SSH connection to github
+```
+        ssh -T git@github.com
+```
+
 
 ## How to use Git Bash?
 ### Options 1: Upload local files to Github web repo
