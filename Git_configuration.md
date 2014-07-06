@@ -8,10 +8,11 @@
     * Install the *Git-1.9.4-preview20140611.exe* using default settings.
 
 3. Configure the SSH connection with remote github
-    * Run the Git bash, and create SSH keys
+    * Start the Git Bash and create SSH keys
 ```
-	    ssh-keygen  -t rsa  -C "wangmcas@gmail.com"
+	    ssh-keygen  -t rsa  -C  "wangmcas@gmail.com"
 ```
+
 	Create privite and public keys for the Email account
     * Record the file **id_rsa.pub** in direcotry **.ssh**
 
@@ -19,11 +20,11 @@
     * Account Settings -> SSH keys -> Add SSH key
     * Paste the content of **id_rsa.pub** to the window.
 
-5. Setting the local git ssh
+5. Setting the local git
     * Run the following command lines
 ```
-	git config --global user.email  "wangmcas@gmail.com"
-	git config --global user.name "bakerwm"
+	git config --global user.email "wangmcas@gmail.com"
+	git config --global user.name  "bakerwm"
 ```
 
 ## How to use Git Bash?
