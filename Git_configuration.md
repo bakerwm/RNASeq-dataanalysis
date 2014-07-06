@@ -14,7 +14,8 @@
 ```
 
 	Create privite and public keys for the Email account
-    * Record the file **id_rsa.pub** in direcotry **.ssh**
+
+	* Record the file **id_rsa.pub** in direcotry **.ssh**
 
 4. Setting the Github website
     * Account Settings -> SSH keys -> Add SSH key
