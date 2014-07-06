@@ -11,19 +11,19 @@ Start Github and using Git SSH
 3. Configure the SSH connection with remote github
     * Run the Git bash, and create SSH keys
 
-		```
+        ```
     ssh-keygen  -t rsa  -C "wangmcas@gmail.com"
-    \\# Create privite and public keys for the Email account
+    \\ Create privite and public keys for the Email account
 ```
     * Record the file **id_rsa.pub** in direcotry **.ssh**
 
 4. Setting the Github website
-	* Account Settings -> SSH keys -> Add SSH key
-    *  Paste the content of **id_rsa.pub** to the window.
+    * Account Settings -> SSH keys -> Add SSH key
+    * Paste the content of **id_rsa.pub** to the window.
 
 5. Setting the local git ssh
-	* Run the following command lines
-		```
+    * Run the following command lines
+        ```
 git config --global user.email  "wangmcas@gmail.com"
 git config --global user.name "bakerwm"
 ```
@@ -33,7 +33,7 @@ git config --global user.name "bakerwm"
 1. Create an empty repo on Github website: [eg: *test-temp*]
 
 2. Initiate the git bash
-		```
+        ```
 	git init
 	\\# Move your files to the current directory
 	git add  <your files>
@@ -43,7 +43,7 @@ git config --global user.name "bakerwm"
 ```
 
 ### Options 2: Clone a Web repo to local PC
-		```
+        ```
     git clone  git@github.com:bakerwm/hello.git
     Create local files
     git add <local files>
@@ -52,7 +52,7 @@ git config --global user.name "bakerwm"
 ```
 
 ### Options 3: Update my local files
-		```
+        ```
     \\# Modify/Create the local files
     git add <your files>
     git commit -m 'update files'
