@@ -18,22 +18,22 @@ Start Github and using Git SSH
     * Record the file **id_rsa.pub** in direcotry **.ssh**
 
 4. Setting the Github website
-    *  Account Settings -> SSH keys -> Add SSH key
+	* Account Settings -> SSH keys -> Add SSH key
     *  Paste the content of **id_rsa.pub** to the window.
 
 5. Setting the local git ssh
-	```
+	* Run the following command lines
+		```
 git config --global user.email  "wangmcas@gmail.com"
 git config --global user.name "bakerwm"
 ```
-
-*The following steps are using Git bash*
-### Options 1: Initiate Git with local files
+## How to use Git Bash?
+### Options 1: Upload local files to Github web repo
 
 1. Create an empty repo on Github website: [eg: *test-temp*]
 
-2. Start your Git using command lines
-	```
+2. Initiate the git bash
+		```
 	git init
 	\\# Move your files to the current directory
 	git add  <your files>
@@ -42,7 +42,7 @@ git config --global user.name "bakerwm"
 	git push -u origin master
 ```
 
-### Options 2: Clone a online repo to local PC
+### Options 2: Clone a Web repo to local PC
 		```
     git clone  git@github.com:bakerwm/hello.git
     Create local files
