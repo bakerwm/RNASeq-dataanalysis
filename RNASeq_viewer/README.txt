@@ -18,8 +18,5 @@ NC_000962.2     2       0
 	(1) the name of input file. (Line-15)
 	(2) the name of outpuf PDF. (Line22)
 	(3) The number of bins on X-axis. (Line40)
-<<<<<<< HEAD
 
 5. Finally, Run the script" Rscript getSeqCovFig.R" and get the output in PDF format.
-=======
->>>>>>> e406a98819321d799af85710722fe18f0f52d690
