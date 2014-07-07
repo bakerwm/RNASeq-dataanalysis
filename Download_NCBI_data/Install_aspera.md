@@ -12,7 +12,6 @@
 tar  -zxvf  aspera-connect-3.3.3.81344-linux-64.gz
 sh   aspera-connect-3.3.3.81344-linux-64.gz
 ```
-
 	* Complete. [No need **root** right]
 
 ### 2. Configure Aspera
@@ -39,7 +38,9 @@ source ~/.bashrc
 
 ### 3. Download dataset from NCBI or EBI
 The basic command:
+```
 ascp -i asperaweb_id_dsa.openssh  user@server_IP  local_dir
+```
 
 1. Download NCBI datasets
 For example, The NCBI ftp address of the file is:
