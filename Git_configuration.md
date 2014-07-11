@@ -76,16 +76,23 @@ Just try the following command:
 1. Create a repo in your github website: "3Kings4Food"
 2. Clone the repo to your local PC
 3. Create a special Github Pages branch
+```
     git checkout --orphan  gh-pages
-It will create a new branch, and saying **Switched to a new branch 'gh-pages'**
+```
 
+It will create a new branch, and saying **Switched to a new branch 'gh-pages'**
+```
     git checkout gh-pages
+```
+
 It will check whether you are in the branch "gh-pages"
 
 4. push your files to the new branch for the first time
+```
     git add files
     git commit -m 'update my files'
     git push  --set-upstream origin gh-pages
+```
 
 5. You can view your page at: http://bakerwm.github.io/3Kings4Food
 Use **HTTP** to access the website, **NOT** *HPPTS*.
