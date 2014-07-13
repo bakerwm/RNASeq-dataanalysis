@@ -97,3 +97,6 @@ It will check whether you are in the branch "gh-pages"
 5. You can view your page at: http://bakerwm.github.io/3Kings4Food
 Use **HTTP** to access the website, **NOT** *HPPTS*.
 
+Some useful guides for creating Gitpages:
+**1. http://www.thinkful.com/learn/a-guide-to-using-github-pages/
+**2. http://24ways.org/2013/get-started-with-github-pages/
