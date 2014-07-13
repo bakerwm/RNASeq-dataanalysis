@@ -127,13 +127,16 @@ From the command line, run the following command to install the Python base of P
 ```    
     * Set Pygments as your syntax highlighter    
 Add the following line to your **_config.yml** file, which will set your syntax highlighter.    
+
 ```
     highlighter: pygments
 ```    
+
 * Summary    
 Jekyll will now use the highlighter you choose to make all your code blocks look super sleek. We're almost finished.
 
 #### Let Jekyll  --watch
+
 * Install the wdm Gem    
 You can instruct Jekyll to have an eye out for changed files to automatically rebuild your site whenever you make changes in the source. On Windows, you need to install one extra tool, or rather Gem, to enable this functionality. Simply run the following command from the command line.    
 ```
