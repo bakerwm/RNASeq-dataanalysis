@@ -19,28 +19,36 @@ The format of the site is: *your-username.github.io/your-project-name*
 
 #### Set up the repository
 * Create a repo named "MingDemo" on github web site, and choose option: "initialize this repository with a README"    
-* Clone the repo to your local PC    
+* Clone the repo to your local PC   
+``` 
     git clone git@github.com:bakerwm/MingDemo.git
+```    
 * Go to the directory    
+```
     cd MingDemo/
+```    
 * Create a special GitHub Pages branch    
+```
     git checkout  --orphan  gh-pages
+```    
+
 We'll get a message saying **Switching to a new branch 'gh-pages'
 * Make the gh-pages as the default branch
 
 #### Make a Page
 * Create a file called *index.html* in *MingDemo* folder    
+```
     This is a demo for GitHub Pages.
+```    
 * Then commit and push our changes    
-    git add --all .    
-    git commit -m 'test page'    
-    git push
+```
+    git add --all .        
+    git commit -m 'test page'        
+    git push    
+```    
 
 #### Done, the first page
 You can find the page at: [http://bakerwm.github.io/MingDemo](http://bakerwm.github.io/MingDemo)
-
-
-
 
 ## 3. Install Jekyll
 The following instructions are based on the following website by @[Julian Thilo](http://jekyll-windows.juthilo.com/)
@@ -57,17 +65,24 @@ Install the Ruby at the **default PATH**, and choose the option: **Add Ruby exec
 *Open your windows console to finish the following steps.*   
 
 * Go to the RubyDevKit folder
-    cd  C:\RubyDevKit\    
+```
+    cd  C:\RubyDevKit\
+```    
 * Auto-detect Ruby installations and add them to configuration file
+```
     ruby   dk.rb  init    
+```    
 * Intall DevKit, binding it to Ruby installation   
+```
     ruby  dk.rb  install    
-
+```    
 Now, you have Ruby installed on your machine and you can build fully functional executables using Ruby Development Kit. Ruby includes a way to install so-called ***gems-software packages*** from the command line.    
 
 #### Install the Jekyll Gem
 Jekyll comes in the form of Ruby Gem, which is an easy-to-install software package. Open your windows console and execute the following commands.    
+```
     gem  install  jekyll   
+```    
 it will take a while to finish the installaion.
 
 #### Highlight your code    
@@ -76,10 +91,13 @@ A nice alternative is the Ruby-based **Rouge**, which is faster and easier to in
 
 * Install Rouge    
 Quick and Pinless: open your console and enter the following command.    
+```
     gem  install  rouge    
+```    
 Then, in your **_config.yml**, set Rouge as your syntax highlighter, add the following line the the file:    
+```
     highlighter: rouge    
-
+```    
 **Done!**
 
 * Make Pygments work    
@@ -95,32 +113,38 @@ Pip is a tool for installing and managing Python packages, similar to Ruby Gems.
 Download **get-pip.py** via the link on that site:    [Download pip](https://pip.pypa.io/en/latest/installing.html)    
 
 Next, open your console and go to the folder where the get-pip.py is. (e.g., c:\pip\)    
+```
     cd  C:\pip    
-
+```    
 Then, run the following command to automatically download and intall all required components.    
+```
     python  get-pip.py       
+```    
     * Install Python base of Pygments        
 From the command line, run the following command to install the Python base of Pygments.    
+```
     pip  install  Pygments    
+```    
     * Set Pygments as your syntax highlighter    
-Add the following line to your **_config.yml** file, which will set your syntax highlighter.
+Add the following line to your **_config.yml** file, which will set your syntax highlighter.    
+```
     highlighter: pygments
-
+```    
 * Summary    
 Jekyll will now use the highlighter you choose to make all your code blocks look super sleek. We're almost finished.
 
 #### Let Jekyll  --watch
 * Install the wdm Gem    
 You can instruct Jekyll to have an eye out for changed files to automatically rebuild your site whenever you make changes in the source. On Windows, you need to install one extra tool, or rather Gem, to enable this functionality. Simply run the following command from the command line.    
-
+```
     gem  install  wdm
-
+```    
 * Require wdm in your Gemfile
-* Alternatively, if you use a Gemfile, you can check if Jekyll runs on Windows and only then install the wdm Gem.
-
+* Alternatively, if you use a Gemfile, you can check if Jekyll runs on Windows and only then install the wdm Gem.    
+```
     require 'rbconfig'    
     gem  'wdm', '~> 0.1.0'  if Rbconfig::CONFIG['target_os'] =~ /mswin|mingw/i    
-
+```    
 * Summary    
 You've now installed everything you need to run Jekyll on Windows. The following minor things can make sure that your sites build smoothy and without problems.
 
@@ -133,21 +157,24 @@ If you followed this guide step by step or if your versions match the ones in th
 
 ------
 * Set **encoding** option
-In your **_config.yml** file, add the following line:    
+In your **_config.yml** file, add the following line:        
+```
     encoding: utf-8    
-
+```    
 * Change console encoding    
-Alternatively, you can change your command line tool's encoding to UTF-8 by running the following command every time you open a new console window.    
+Alternatively, you can change your command line tool's encoding to UTF-8 by running the following command every time you open a new console window.        
+```
     chcp  65001
-
+```    
 * The End    
+```
     jekyll  build    
     jekyll  build  --watch    
     jekyll  build  -w    
     jekyll  serve    
     jekyll  serve  --watch    
     jekyll  serve  -w    
-
+```    
 You can now run all of the above commands on your Windows machine. Congratulations! You have successfully set up Jekyll on Windows.
 
 There are several way to get help if you find the above instruction is not clear.    
