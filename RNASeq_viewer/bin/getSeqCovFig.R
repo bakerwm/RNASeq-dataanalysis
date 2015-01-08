@@ -1,10 +1,89 @@
-# Draw the coverage maps of RNASeq data using ggplot2 packages
-# Parameters: 1. reads, the input file (line-15); 2. Name of pdf (line-22); 
-# 3. Number of scales on X-axis (line-40).
+# Extract subset data, Using bigmemory package
+getCovData <- function(FileIndex, InPos) {
+    ## Check the strand
+    subIndex <- subset(FileIndex, Strand == InPos$StrType)
+    
+    # Expand the range of input seq
+    StartRow <- InPos$Begin - 200; if(StartRow < 0) StartRow <- 0
+    EndRow   <- InPos$End + 200
+    ReadRows <- InPos$Length + 400
+    
+    AllLibData <- data.frame(Chr      = NULL,
+                             Position = NULL, 
+                             Count    = NULL, 
+                             LibName  = NULL, 
+                             ID       = NULL)
+    
+    for(n in 1:nrow(subIndex)) {
+        LibBigdesc <- dget(subIndex$Bigdesc[n])
+        LibData <- attach.big.matrix(LibBigdesc)
+        LibData <- LibData[mwhich(LibData, c("Position"), list(c(StartRow, EndRow)),
+                                  list(c('ge', 'le')), 'AND')]
+        LibData <- as.data.frame.matrix(LibData)
+        LibData$LibName <- subIndex$LibName[n]
+        LibData$ID      <- InPos$ID
+        LibData$Chr     <- subIndex$Strain[1]
+        AllLibData      <- rbind(AllLibData, LibData)
+    }
+    AllLibData
+}
 
-
+#################################
 library("ggplot2")
-source("getCovData.R")
+library("plyr")
+library("bigmemory")
+
+# Load parameters
+print("Usage: Rscript getSeqCovFig.R InDir InFile")
+args     <- commandArgs(trailingOnly=TRUE)
+InDir    <- args[1]
+InFile   <- args[2]
+FlankGap <- 200
+#print(c("Input para:", args))
+
+#InDir  <- "Rv.coverage"
+#InFile <- "test.txt"
+
+# Read in seq info
+InLists <- read.table(InFile, comment.char="")
+names(InLists) <- c("ID", "Strain", "Length", "Begin", "End", "Strand")
+InLists$StrType <- mapvalues(InLists$Strand, c("+", "-"), c("p", "n")) 
+InLists$Note   <- apply(InLists[, c(1,3:6)], 1, paste, collapse=":")
+
+# Create Cov Index
+CovFiles <- dir(InDir, ".coverage.")
+CovNames <- strsplit(CovFiles, "\\.")
+CovIndex <- data.frame(matrix(unlist(CovNames), length(CovFiles), byrow=TRUE))
+names(CovIndex)   <- c("Strain", "LibType", "Cov", "Strand")
+CovIndex$LibName  <- mapvalues(CovIndex$LibType, 
+                               c("01","02","03","04"), 
+                               c("1. 18-40 nt", "2. 40-80 nt", "3. 80-140 nt", "4. >140 nt"))
+CovIndex$FilePath <- paste(InDir, CovFiles, sep="/")
+CovIndex$Filename <- CovFiles
+CovIndex$Bigbin   <- paste(CovIndex$Filename, ".bin", sep="") 
+CovIndex$Bigdesc  <- paste(CovIndex$Filename, ".desc", sep="")
+
+CovIndex <- CovIndex[c("Strain", "Strand", "LibType", "LibName", "Filename", 
+                       "FilePath", "Bigbin", "Bigdesc")]
+
+# Create bin & desc files for each coverage file
+#dir.create(paste(InDir, "desc", sep="/"), showWarnings=FALSE)
+CheckDesc <- dir(path="./", pattern="*.desc")
+if(length(CheckDesc) < 1) {
+    for(i in 1:nrow(CovIndex)) {
+        tFile <- CovIndex$FilePath[i]
+        tbin  <- CovIndex$Bigbin[i]
+        tdesc <- CovIndex$Bigdesc[i]
+        tmp   <- read.big.matrix(tFile, sep="\t", header=FALSE, 
+                                 type="integer",
+                                 col.names=c("Chr", "Position", "Count"),
+                                 backingfile=tbin,
+                                 descriptor=tdesc)
+    }    
+}
+
+pdf("ReadsCov.pdf", width=8, height=6)
+
 tm <- theme(axis.line  = element_line(colour="black"),
             axis.title = element_text(size=16, colour="black"),
             axis.text  = element_text(size=12, colour="black"),
@@ -12,35 +91,34 @@ tm <- theme(axis.line  = element_line(colour="black"),
             strip.text = element_text(size=12, face="bold"),
             strip.background = element_rect(fill="gray70", colour="black", size=0.5) )
 
-#reads <- read.table("Rv-407sRNAs.txt", comment.char="")
-reads <- read.table("CYRNAseqView.txt", comment.char="")
-reads <- reads[c(1,8),]
-names(reads) <- c("ID", "Strain", "Length", "Begin", "End", "Strand")
-reads.bystrain <- split(reads, reads$Strain)
-Strains <- as.character(unique(reads$Strain))
-
-#pdf("Rplot.pdf", width=8, height=6)
-pdf("CY-20140704-2sRNAs.pdf", width=14, height=8)
-system.time(
-for(i in 1:length(Strains)){
-    Strain <- Strains[i]
-    CovDir <- "Rv.coverage"
-    CovData <- getCovData(Strain, CovDir)  ## Function 1
-    readsList <- reads.bystrain[[Strain]]
-    
-    for(m in 1:length(readsList$ID)) {
-        Line.Info <- readsList[m, ]
-        Begin <- Line.Info$Begin
-        End   <- Line.Info$End
-        Length<- Line.Info$Length        
-        Linedata <- getReadCovData(CovData, Line.Info)  ## Function 2
-        LinePosition <- paste(Line.Info$Begin, Line.Info$End, Line.Info$Strand, Line.Info$Length, sep=":")        
-        figtitle <- paste(Strain, Line.Info$ID, LinePosition, sep=" ")        
-        p1 <- ggplot(Linedata, aes(x=Position, y=Coverage)) + ggtitle(figtitle) + tm +
-            geom_area(fill="black") + scale_x_continuous(breaks=seq(Begin, End, Length/7))
+system.time(    
+    for(i in 1:nrow(InLists)) {
+        LinePos  <- InLists[i, ]
+        FigBegin <- LinePos$Begin; FigEnd <- LinePos$End
+        LinePos$Begin  <- LinePos$Begin - FlankGap; if(LinePos$Begin < 0) LinePos$Begin <- 1
+        LinePos$End    <- LinePos$End + FlankGap
+        LinePos$Length <- LinePos$End - LinePos$Begin + 1
+        LineData  <- getCovData(FileIndex=CovIndex, InPos=LinePos)
+        LineTitle <- paste(LinePos$Strain, LinePos$Note, sep=" ")
+        # Select subset of data
+        LineData <- subset(LineData, 
+                           Position >= LinePos$Begin & Position <= LinePos$End)
+        # For labels on x-axis
+        xStart <- 10 * floor(LinePos$Begin/10)
+        xEnd   <- 10 * floor(LinePos$End/10)
+        xStep  <- 10 * floor(floor(LinePos$Length/7)/10)
+        xBreak <- seq(xStart, xEnd, by=xStep)        
+        
+        p1 <- ggplot(LineData, aes(x=Position, y=Count)) +
+            geom_area(fill="black") + 
+            geom_vline(xintercept=c(FigBegin, FigEnd), colour="blue",
+                       linetype="longdash", size=.3) +
+            scale_x_continuous(breaks=xBreak) +
+            ggtitle(LineTitle) + tm
+        
         print(p1 + facet_grid(LibName ~ ID) )
-        #print(p1 + facet_grid(LibName ~ ID, scales="free_y") )
-    }          
-}
+        print(p1 + facet_grid(LibName ~ ID, scales="free_y") )
+    }
 )
+
 dev.off()
