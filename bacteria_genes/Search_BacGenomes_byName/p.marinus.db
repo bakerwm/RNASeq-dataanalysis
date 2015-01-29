@@ -1,0 +1,107 @@
+Found 13 genomes of prochlorococcus_marinus_
+Write these results to: p.marinus.db
+
+1
+dbname: bacteria_17_collection_core_25_78_1 
+Species_id: 32 
+Species: prochlorococcus_marinus_str_natl2a  
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+2
+dbname: bacteria_2_collection_core_25_78_1 
+Species_id: 144 
+Species: prochlorococcus_marinus_subsp_pastoris_str_ccmp1986 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+3
+dbname: bacteria_14_collection_core_25_78_1 
+Species_id: 162 
+Species: prochlorococcus_marinus_str_mit_9301 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+4
+dbname: bacteria_12_collection_core_25_78_1 
+Species_id: 173 
+Species: prochlorococcus_marinus_str_as9601  
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+5
+dbname: bacteria_24_collection_core_25_78_1 
+Species_id: 181 
+Species: prochlorococcus_marinus_str_mit_9202 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+6
+dbname: bacteria_11_collection_core_25_78_1 
+Species_id: 35 
+Species: prochlorococcus_marinus_str_mit_9313 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+7
+dbname: bacteria_11_collection_core_25_78_1 
+Species_id: 103 
+Species: prochlorococcus_marinus_str_natl1a  
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+8
+dbname: bacteria_22_collection_core_25_78_1 
+Species_id: 173 
+Species: prochlorococcus_marinus_str_mit_9515 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+9
+dbname: bacteria_24_collection_core_25_78_1 
+Species_id: 23 
+Species: prochlorococcus_marinus_str_mit_9303 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+10
+dbname: bacteria_0_collection_core_25_78_1 
+Species_id: 116 
+Species: prochlorococcus_marinus_subsp_marinus_str_ccmp1375 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+11
+dbname: bacteria_11_collection_core_25_78_1 
+Species_id: 167 
+Species: prochlorococcus_marinus_str_mit_9312 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+12
+dbname: bacteria_2_collection_core_25_78_1 
+Species_id: 191 
+Species: prochlorococcus_marinus_str_mit_9215 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+13
+dbname: bacteria_11_collection_core_25_78_1 
+Species_id: 84 
+Species: prochlorococcus_marinus_str_mit_9211 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+

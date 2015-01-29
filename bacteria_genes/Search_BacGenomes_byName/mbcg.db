@@ -1,0 +1,51 @@
+Found 6 genomes of mycobacterium_bovis_bcg
+Write these results to: mbcg.db
+
+1
+dbname: bacteria_19_collection_core_25_78_1 
+Species_id: 93 
+Species: mycobacterium_bovis_bcg_str_mexico  
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+2
+dbname: bacteria_15_collection_core_25_78_1 
+Species_id: 49 
+Species: mycobacterium_bovis_bcg_str_tokyo_172 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+3
+dbname: bacteria_14_collection_core_25_78_1 
+Species_id: 125 
+Species: mycobacterium_bovis_bcg_str_pasteur_1173p2 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+4
+dbname: bacteria_30_collection_core_25_78_1 
+Species_id: 187 
+Species: mycobacterium_bovis_bcg_str_korea_1168p 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+5
+dbname: bacteria_62_collection_core_25_78_1 
+Species_id: 132 
+Species: mycobacterium_bovis_bcg_str_atcc_35743 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+6
+dbname: bacteria_77_collection_core_25_78_1 
+Species_id: 184 
+Species: mycobacterium_bovis_bcg             
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+

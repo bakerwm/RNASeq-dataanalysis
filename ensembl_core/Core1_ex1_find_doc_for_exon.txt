@@ -1,0 +1,5 @@
+See the following link for documentation:
+
+http://apr2013.archive.ensembl.org/info/docs/Doxygen/core-api/classBio_1_1EnsEMBL_1_1Exon.html#ae55abe7976ccd92fba0c6ebd98936a9c
+
+search "exon"

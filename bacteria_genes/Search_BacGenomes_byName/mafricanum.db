@@ -1,0 +1,235 @@
+Found 29 genomes of mycobacterium_africanum
+Write these results to: mafricanum.db
+
+1
+dbname: bacteria_84_collection_core_25_78_1 
+Species_id: 229 
+Species: mycobacterium_africanum_mal010137   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+2
+dbname: bacteria_81_collection_core_25_78_1 
+Species_id: 194 
+Species: mycobacterium_africanum_mal010129   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+3
+dbname: bacteria_17_collection_core_25_78_1 
+Species_id: 162 
+Species: mycobacterium_africanum_gm041182    
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+4
+dbname: bacteria_80_collection_core_25_78_1 
+Species_id: 186 
+Species: mycobacterium_africanum_mal010099   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+5
+dbname: bacteria_73_collection_core_25_78_1 
+Species_id: 147 
+Species: mycobacterium_africanum_mal020185   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+6
+dbname: bacteria_72_collection_core_25_78_1 
+Species_id: 16 
+Species: mycobacterium_africanum_mal010100   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+7
+dbname: bacteria_63_collection_core_25_78_1 
+Species_id: 10 
+Species: mycobacterium_africanum_mal010118   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+8
+dbname: bacteria_84_collection_core_25_78_1 
+Species_id: 93 
+Species: mycobacterium_africanum_mal010111   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+9
+dbname: bacteria_80_collection_core_25_78_1 
+Species_id: 234 
+Species: mycobacterium_africanum_mal010071   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+10
+dbname: bacteria_71_collection_core_25_78_1 
+Species_id: 149 
+Species: mycobacterium_africanum_mal020176   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+11
+dbname: bacteria_68_collection_core_25_78_1 
+Species_id: 28 
+Species: mycobacterium_africanum_mal010102   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+12
+dbname: bacteria_76_collection_core_25_78_1 
+Species_id: 83 
+Species: mycobacterium_africanum_mal010074   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+13
+dbname: bacteria_78_collection_core_25_78_1 
+Species_id: 215 
+Species: mycobacterium_africanum_mal020135   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+14
+dbname: bacteria_76_collection_core_25_78_1 
+Species_id: 239 
+Species: mycobacterium_africanum_gca_000666065_1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+15
+dbname: bacteria_63_collection_core_25_78_1 
+Species_id: 9 
+Species: mycobacterium_africanum_mal020173   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+16
+dbname: bacteria_66_collection_core_25_78_1 
+Species_id: 14 
+Species: mycobacterium_africanum_mal010136   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+17
+dbname: bacteria_67_collection_core_25_78_1 
+Species_id: 78 
+Species: mycobacterium_africanum_mal010070   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+18
+dbname: bacteria_63_collection_core_25_78_1 
+Species_id: 231 
+Species: mycobacterium_africanum_mal020107   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+19
+dbname: bacteria_76_collection_core_25_78_1 
+Species_id: 109 
+Species: mycobacterium_africanum_mal010081   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+20
+dbname: bacteria_65_collection_core_25_78_1 
+Species_id: 127 
+Species: mycobacterium_africanum_mal010128   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+21
+dbname: bacteria_3_collection_core_25_78_1 
+Species_id: 91 
+Species: mycobacterium_africanum_k85_gca_000159775_1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+22
+dbname: bacteria_84_collection_core_25_78_1 
+Species_id: 21 
+Species: mycobacterium_africanum_mal020130   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+23
+dbname: bacteria_81_collection_core_25_78_1 
+Species_id: 218 
+Species: mycobacterium_africanum_mal010079   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+24
+dbname: bacteria_80_collection_core_25_78_1 
+Species_id: 145 
+Species: mycobacterium_africanum_mal010120   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+25
+dbname: bacteria_67_collection_core_25_78_1 
+Species_id: 57 
+Species: mycobacterium_africanum_k85_gca_000665865_1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+26
+dbname: bacteria_83_collection_core_25_78_1 
+Species_id: 81 
+Species: mycobacterium_africanum_gca_000666125_1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+27
+dbname: bacteria_69_collection_core_25_78_1 
+Species_id: 66 
+Species: mycobacterium_africanum_mal010131   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+28
+dbname: bacteria_65_collection_core_25_78_1 
+Species_id: 178 
+Species: mycobacterium_africanum_mal010123   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+29
+dbname: bacteria_65_collection_core_25_78_1 
+Species_id: 205 
+Species: mycobacterium_africanum_mal010112   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+

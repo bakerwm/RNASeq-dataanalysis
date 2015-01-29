@@ -1,0 +1,39 @@
+1. Recap - Ensembl API script design
+
+(1) Always 
+    - load the registry
+    use Bio::EnsEMBL::Registry;
+    my $registry = 'Bio::EnsEMBL::Registry';
+    $registry->load_registry_from_db(-host => '', -user => 'anonymout');
+
+(2) Which features (gene, repeats, SNPs, etc.) are in my interest?
+    - Get the SliceAdaptor
+    - Fetch the Slice for you region of interest
+    - Get the features from your Slice
+
+(3) What do we know about a particular gene?
+    - Get the GeneAdaptor()
+    - Fetch your Gene of interest
+    - Get more details about the gene
+        - Gene structure (transcripts, exons, translations)
+        - Annotations: GO xrefs, HGNC symbols, etc.
+        - Features in the same region->get the Slice for the Gene
+
+
+2. Documentation & Help
+
+(1) Installization instructions, web-browsable version of the POD, database schema and tutorial:
+    http://www.ensembl.org/info/docs/api/index.html
+
+(2) Inline Perl POD
+
+(3) dev@ensembl.org mailing list
+    http://www.ensembl.org/info/about/contact/mailing.html
+    searchable mailing list archive
+    http://blog.gmane.org/gmane.science.biology.ensembl.devel
+
+(4) Ensembl helpdesk:
+    helpdesk@ensembl.org
+
+3.  Cite ensembl
+

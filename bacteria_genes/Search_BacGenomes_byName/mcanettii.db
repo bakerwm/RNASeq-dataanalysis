@@ -1,0 +1,43 @@
+Found 5 genomes of mycobacterium_canettii
+Write these results to: mcanettii.db
+
+1
+dbname: bacteria_26_collection_core_25_78_1 
+Species_id: 215 
+Species: mycobacterium_canettii_cipt_140070010 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+2
+dbname: bacteria_27_collection_core_25_78_1 
+Species_id: 7 
+Species: mycobacterium_canettii_cipt_140060008 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+3
+dbname: bacteria_27_collection_core_25_78_1 
+Species_id: 39 
+Species: mycobacterium_canettii_cipt_140070017 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+4
+dbname: bacteria_8_collection_core_25_78_1 
+Species_id: 11 
+Species: mycobacterium_canettii_cipt_140010059 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+5
+dbname: bacteria_26_collection_core_25_78_1 
+Species_id: 214 
+Species: mycobacterium_canettii_cipt_140070008 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+

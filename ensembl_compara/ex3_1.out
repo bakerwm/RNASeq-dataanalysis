@@ -1,0 +1,133 @@
+(((((((ENSTRUP00000015030:0.076189,ENSTNIP00000002435:0.103014):0.21785,ENSGACP00000015199:0.157455):0.025704,(((ENSPFOP00000001575:0.029928,ENSXMAP00000006983:0.034097):0.214414,ENSORLP00000004773:0.681677):0.261259,ENSONIP00000006940:0.326376):0.028947):0.181147,ENSGMOP00000010385:0.362117):0.133607,(ENSAMXP00000013440:0.449836,ENSDARP00000099674:0.535172):0.20697):0.142122,ENSLOCP00000009962:0.210601):0.102437,(((((((ENSCHOP00000007822:0.055413,ENSDNOP00000034947:0.059874):0.027372,((ENSLAFP00000002234:0.068406,ENSPCAP00000000440:0.209484):0.018249,ENSETEP00000003277:0.205661):0.048847):0.002332,((((((ENSMLUP00000012516:0.064357,ENSPVAP00000000225:0.104266):0.017357,(((ENSAMEP00000009909:0.027402,ENSMPUP00000001928:0.031409):0.008726,ENSCAFP00000009557:0.042091):0.010477,ENSFCAP00000019777:0.053262):0.02565):0.001429,(((ENSSSCP00000028073:0.066368,ENSSSCP00000022872:0.122249):0,((ENSBTAP00000001311:0.011246,ENSOARP00000011988:0.017436):0.043521,ENSTTRP00000010004:0.030321):0.006861):0.004437,ENSVPAP00000000821:0.052526):0.014607):0.000991,ENSECAP00000013146:0.047755):0.004,(ENSEEUP00000008968:0.11884,ENSSARP00000002541:0.128743):0.016843):0.008473,(((((((ENSMUSP00000038576:0.034267,ENSRNOP00000001475:0.044287):0.1546,ENSDORP00000006609:0.113479):0.014683,ENSSTOP00000004979:0.081022):0.000895,ENSCPOP00000004635:0.133939):0.011715,(ENSOCUP00000014514:0.050406,ENSOPRP00000014082:0.127135):0.051037):0.003888,ENSTBEP00000013856:0.095185):0.000781,(((ENSMICP00000010933:0.040565,ENSOGAP00000009477:0.069539):0.017173,ENSTSYP00000000441:0.070672):0.000976,(((((((ENSP00000369497:0.002006,ENSPTRP00000009812:0.003005):0.000211,ENSGGOP00000015446:0.020001):0.004867,ENSPPYP00000005997:0.007701):0.002739,ENSNLEP00000001277:0.010799):0.004609,(ENSMMUP00000009432:0.002282,ENSCSAP00000013938:0.004799):0.010032):0.002812,ENSCJAP00000034250:0.040721):0,(ENSPANP00000002726:0,ENSLACP00000008815:0.755268):0.01718):0.041952):0.007256):0.009101):0.010316):0.128545,((ENSMODP00000033276:0.09888,ENSSHAP00000012162:0.099307):0.014002,ENSMEUP00000009812:0.08858):0.157753):0.047567,(ENSOANP00000024376:0,ENSOANP00000032170:0.051137):0.317104):0.076723,(((((ENSGALP00000027524:0.035902,ENSMGAP00000015990:0.040278):0.089824,ENSAPLP00000007411:0.124118):0.027976,(ENSFALP00000008821:0.047642,ENSTGUP00000012130:0.075831):0.084205):0.277625,ENSPSIP00000012858:0.196217):0.045167,ENSACAP00000004459:0.373616):0.101001):0.180182,ENSXETP00000060681:0.745917):0.257105):0;
+
+(((((((:0.076189[&&NHX:D=N:T=31033],:0.103014[&&NHX:D=N:T=99883])Tetraodontidae:0.21785[&&NHX:D=N:B=100:T=31031],:0.157455[&&NHX:D=N:T=69293])Eupercaria:0.025704[&&NHX:D=N:B=38:T=1489922],(((:0.029928[&&NHX:D=N:T=48698],:0.034097[&&NHX:D=N:T=8083])Poeciliinae:0.214414[&&NHX:D=N:B=100:T=586240],:0.681677[&&NHX:D=N:T=8090])Atherinomorphae:0.261259[&&NHX:D=N:B=24:T=1489913],:0.326376[&&NHX:D=N:T=8128])Ovalentaria:0.028947[&&NHX:D=N:B=1:T=1489908])Percomorphaceae:0.181147[&&NHX:D=N:B=0:T=1489872],:0.362117[&&NHX:D=N:T=8049])Acanthomorphata:0.133607[&&NHX:D=N:B=0:T=123368],(:0.449836[&&NHX:D=N:T=7994],:0.535172[&&NHX:D=N:T=7955])Otophysa:0.20697[&&NHX:D=N:B=65:T=186626])Clupeocephala:0.142122[&&NHX:D=N:B=2:T=186625],:0.210601[&&NHX:D=N:T=7918])Neopterygii:0.102437[&&NHX:D=N:B=17:T=41665],(((((((:0.055413[&&NHX:D=N:T=9358],:0.059874[&&NHX:D=N:T=9361])Xenarthra:0.027372[&&NHX:D=N:B=100:T=9348],((:0.068406[&&NHX:D=N:T=9785],:0.209484[&&NHX:D=N:T=9813])Afrotheria:0.018249[&&NHX:D=N:B=47:T=311790],:0.205661[&&NHX:D=N:T=9371])Afrotheria:0.048847[&&NHX:D=N:B=46:T=311790])Eutheria:0.002332[&&NHX:D=N:B=5:T=9347],((((((:0.064357[&&NHX:D=N:T=59463],:0.104266[&&NHX:D=N:T=132908])Chiroptera:0.017357[&&NHX:D=N:B=93:T=9397],(((:0.027402[&&NHX:D=N:T=9646],:0.031409[&&NHX:D=N:T=9669])Caniformia:0.008726[&&NHX:D=N:B=100:T=379584],:0.042091[&&NHX:D=N:T=9615])Caniformia:0.010477[&&NHX:D=N:B=100:T=379584],:0.053262[&&NHX:D=N:T=9685])Carnivora:0.02565[&&NHX:D=N:B=100:T=33554])Laurasiatheria:0.001429[&&NHX:D=N:B=6:T=314145],(((:0.066368[&&NHX:D=N:T=9823],:0.122249[&&NHX:D=N:T=9823])Sus_scrofa:0[&&NHX:D=Y:B=23:T=9823],((:0.011246[&&NHX:D=N:T=9913],:0.017436[&&NHX:D=N:T=9940])Bovidae:0.043521[&&NHX:D=N:B=100:T=9895],:0.030321[&&NHX:D=N:T=9739])Cetartiodactyla:0.006861[&&NHX:D=N:B=15:T=91561])Cetartiodactyla:0.004437[&&NHX:D=N:B=8:T=91561],:0.052526[&&NHX:D=N:T=30538])Cetartiodactyla:0.014607[&&NHX:D=N:B=19:T=91561])Laurasiatheria:0.000991[&&NHX:D=N:B=1:T=314145],:0.047755[&&NHX:D=N:T=9796])Laurasiatheria:0.004[&&NHX:D=N:B=1:T=314145],(:0.11884[&&NHX:D=N:T=9365],:0.128743[&&NHX:D=N:T=42254])Insectivora:0.016843[&&NHX:D=N:B=34:T=9362])Laurasiatheria:0.008473[&&NHX:D=N:B=25:T=314145],(((((((:0.034267[&&NHX:D=N:T=10090],:0.044287[&&NHX:D=N:T=10116])Murinae:0.1546[&&NHX:D=N:B=100:T=39107],:0.113479[&&NHX:D=N:T=10020])Sciurognathi:0.014683[&&NHX:D=N:B=23:T=33553],:0.081022[&&NHX:D=N:T=43179])Sciurognathi:0.000895[&&NHX:D=N:B=6:T=33553],:0.133939[&&NHX:D=N:T=10141])Rodentia:0.011715[&&NHX:D=N:B=6:T=9989],(:0.050406[&&NHX:D=N:T=9986],:0.127135[&&NHX:D=N:T=9978])Lagomorpha:0.051037[&&NHX:D=N:B=100:T=9975])Glires:0.003888[&&NHX:D=N:B=3:T=314147],:0.095185[&&NHX:D=N:T=37347])Euarchontoglires:0.000781[&&NHX:D=N:B=0:T=314146],(((:0.040565[&&NHX:D=N:T=30608],:0.069539[&&NHX:D=N:T=30611])Strepsirrhini:0.017173[&&NHX:D=N:B=100:T=376911],:0.070672[&&NHX:D=N:T=9478])Primates:0.000976[&&NHX:D=N:B=4:T=9443],(((((((:0.002006[&&NHX:D=N:T=9606],:0.003005[&&NHX:D=N:T=9598])Homininae:0.000211[&&NHX:D=N:B=100:T=207598],:0.020001[&&NHX:D=N:T=9595])Homininae:0.004867[&&NHX:D=N:B=100:T=207598],:0.007701[&&NHX:D=N:T=9601])Hominidae:0.002739[&&NHX:D=N:B=98:T=9604],:0.010799[&&NHX:D=N:T=61853])Hominoidea:0.004609[&&NHX:D=N:B=88:T=314295],(:0.002282[&&NHX:D=N:T=9544],:0.004799[&&NHX:D=N:T=60711])Cercopithecinae:0.010032[&&NHX:D=N:B=73:T=9528])Catarrhini:0.002812[&&NHX:D=N:B=73:T=9526],:0.040721[&&NHX:D=N:T=9483])Simiiformes:0[&&NHX:D=N:B=73:T=314293],(:0[&&NHX:D=N:T=9555],:0.755268[&&NHX:D=N:T=7897])Sarcopterygii:0.01718[&&NHX:D=N:B=12:T=8287])Sarcopterygii:0.041952[&&NHX:DD=Y:B=6:T=8287])Sarcopterygii:0.007256[&&NHX:DD=Y:B=3:T=8287])Sarcopterygii:0.009101[&&NHX:DD=Y:B=0:T=8287])Sarcopterygii:0.010316[&&NHX:DD=Y:B=0:T=8287])Sarcopterygii:0.128545[&&NHX:DD=Y:B=0:T=8287],((:0.09888[&&NHX:D=N:T=13616],:0.099307[&&NHX:D=N:T=9305])Marsupialia:0.014002[&&NHX:D=N:B=91:T=9263],:0.08858[&&NHX:D=N:T=9315])Marsupialia:0.157753[&&NHX:D=N:B=91:T=9263])Sarcopterygii:0.047567[&&NHX:DD=Y:B=7:T=8287],(:0[&&NHX:D=N:T=9258],:0.051137[&&NHX:D=N:T=9258])Ornithorhynchus_anatinus:0.317104[&&NHX:D=Y:B=99:T=9258])Sarcopterygii:0.076723[&&NHX:DD=Y:B=3:T=8287],(((((:0.035902[&&NHX:D=N:T=9031],:0.040278[&&NHX:D=N:T=9103])Phasianidae:0.089824[&&NHX:D=N:B=100:T=9005],:0.124118[&&NHX:D=N:T=8839])Galloanserae:0.027976[&&NHX:D=N:B=100:T=1549675],(:0.047642[&&NHX:D=N:T=59894],:0.075831[&&NHX:D=N:T=59729])Passeriformes:0.084205[&&NHX:D=N:B=100:T=9126])Neognathae:0.277625[&&NHX:D=N:B=100:T=8825],:0.196217[&&NHX:D=N:T=13735])Testudines_+_Archosauria_group:0.045167[&&NHX:D=N:B=76:T=1329799],:0.373616[&&NHX:D=N:T=28377])Sauria:0.101001[&&NHX:D=N:B=72:T=32561])Sarcopterygii:0.180182[&&NHX:DD=Y:B=6:T=8287],:0.745917[&&NHX:D=N:T=8364])Sarcopterygii:0.257105[&&NHX:DD=Y:B=21:T=8287])Euteleostomi:0[&&NHX:D=N:B=0:T=117571];
+
+(B=0 T=Euteleostomi 1027762 1,258)
+|--(B=17 T=Neopterygii 10100216 2,43)
+|  |--(B=2 T=Clupeocephala 10100217 3,40)
+|  |  |--(B=0 T=Acanthomorphata 10100219 4,33)
+|  |  |  |--(B=0 T=Percomorphaceae 10100220 5,30)
+|  |  |  |  |-(B=38 T=Eupercaria 10100221 6,15)
+|  |  |  |  | |---(B=100 T=Tetraodontidae 10100222 7,12)
+|  |  |  |  | |   |-(1027806 8,9) takifugu_rubripes ENSTRUG00000006177 (brca2) scaffold_19:196046-199577
+|  |  |  |  | |   |--(1027779 10,11) tetraodon_nigroviridis ENSTNIG00000016261 (brca2) 16:4700614-4705074
+|  |  |  |  | |--(1027776 13,14) gasterosteus_aculeatus ENSGACG00000011490 (brca2) groupI:13362884-13366744
+|  |  |  |  |-(B=1 T=Ovalentaria 10100223 16,29)
+|  |  |  |    |---(B=24 T=Atherinomorphae 10100224 17,26)
+|  |  |  |    |   |---(B=100 T=Poeciliinae 10100225 18,23)
+|  |  |  |    |   |   |-(1027822 19,20) poecilia_formosa ENSPFOG00000001640 (brca2) KI519684.1:85746-101164
+|  |  |  |    |   |   |-(1027796 21,22) xiphophorus_maculatus ENSXMAG00000006974 (brca2) JH556673.1:699224-714770
+|  |  |  |    |   |-------(1027800 24,25) oryzias_latipes ENSORLG00000003832 (brca2) 13:7906488-7907361
+|  |  |  |    |----(1027772 27,28) oreochromis_niloticus ENSONIG00000005522 (brca2) GL831218.1:289993-303706
+|  |  |  |----(1027811 31,32) gadus_morhua ENSGMOG00000009699 (brca2) GeneScaffold_2233:16156-29802
+|  |  |---(B=65 T=Otophysa 10100218 34,39)
+|  |      |-----(1027792 35,36) astyanax_mexicanus ENSAMXG00000013027 (brca2) KB882257.1:1212119-1232402
+|  |      |------(1027803 37,38) danio_rerio ENSDARG00000079015 (brca2) 15:31158358-31174888
+|  |---(1027777 41,42) lepisosteus_oculatus ENSLOCG00000008205 (brca2) LG3:13357730-13380925
+|---(DD  SIS=0 B=21 T=Sarcopterygii 10100226 44,257)
+    |--(DD  SIS=0 B=6 T=Sarcopterygii 10100227 45,254)
+    |  |-(DD  SIS=0 B=3 T=Sarcopterygii 10100234 46,227)
+    |  | |-(DD  SIS=0 B=7 T=Sarcopterygii 10100236 47,220)
+    |  | | |--(DD  SIS=0 B=0 T=Sarcopterygii 10100237 48,209)
+    |  | | |  |-(B=5 T=Eutheria 10100273 49,66)
+    |  | | |  | |-(B=100 T=Xenarthra 10100274 50,55)
+    |  | | |  | | |-(1027791 51,52) choloepus_hoffmanni ENSCHOG00000008817 (BRCA2) GeneScaffold_3963:155-56284
+    |  | | |  | | |-(1027826 53,54) dasypus_novemcinctus ENSDNOG00000038771 (BRCA2) JH578084.1:11711-90821
+    |  | | |  | |-(B=46 T=Afrotheria 10100275 56,65)
+    |  | | |  |   |-(B=47 T=Afrotheria 10100276 57,62)
+    |  | | |  |   | |-(1027780 58,59) loxodonta_africana ENSLAFG00000002670 (BRCA2) scaffold_11:4649923-4713848
+    |  | | |  |   | |---(1027818 60,61) procavia_capensis ENSPCAG00000000379 (BRCA2) GeneScaffold_3650:343-54585
+    |  | | |  |   |---(1027827 63,64) echinops_telfairi ENSETEG00000003989 (BRCA2) GeneScaffold_4230:2259-131183
+    |  | | |  |-(DD  SIS=0 B=0 T=Sarcopterygii 10100238 67,208)
+    |  | | |    |-(B=25 T=Laurasiatheria 10100239 68,125)
+    |  | | |    | |-(B=1 T=Laurasiatheria 10100240 69,118)
+    |  | | |    | | |-(B=1 T=Laurasiatheria 10100241 70,115)
+    |  | | |    | | | |-(B=6 T=Laurasiatheria 10100247 71,92)
+    |  | | |    | | | | |-(B=93 T=Chiroptera 10100248 72,77)
+    |  | | |    | | | | | |-(1027769 73,74) myotis_lucifugus ENSMLUG00000013741 (BRCA2) GL429786:4166192-4250116
+    |  | | |    | | | | | |--(1027801 75,76) pteropus_vampyrus ENSPVAG00000000246 (BRCA2) GeneScaffold_1816:16170-64885
+    |  | | |    | | | | |-(B=100 T=Carnivora 10100249 78,91)
+    |  | | |    | | | |   |-(B=100 T=Caniformia 10100250 79,88)
+    |  | | |    | | | |   | |-(B=100 T=Caniformia 10100251 80,85)
+    |  | | |    | | | |   | | |-(1027815 81,82) ailuropoda_melanoleuca ENSAMEG00000009390 (BRCA2) GL192584.1:1852747-1917315
+    |  | | |    | | | |   | | |-(1027795 83,84) mustela_putorius_furo ENSMPUG00000001945 (BRCA2) GL897055.1:4516525-4575778
+    |  | | |    | | | |   | |-(1027766 86,87) canis_familiaris ENSCAFG00000006383 (BRCA2) 25:7734450-7797815
+    |  | | |    | | | |   |-(1027810 89,90) felis_catus ENSFCAG00000025587 (BRCA2) A1:11398212-11455078
+    |  | | |    | | | |-(B=19 T=Cetartiodactyla 10100242 93,114)
+    |  | | |    | | |   |-(B=8 T=Cetartiodactyla 10100243 94,111)
+    |  | | |    | | |   | |(Dup SIS=100.00 B=23 T=Sus scrofa 10100244 95,100)
+    |  | | |    | | |   | ||-(1027763 96,97) sus_scrofa ENSSSCG00000029039 GL894447.1:46-18025
+    |  | | |    | | |   | ||--(1027823 98,99) sus_scrofa ENSSSCG00000020961 GL894428.1:2554-22348
+    |  | | |    | | |   | |-(B=15 T=Cetartiodactyla 10100245 101,110)
+    |  | | |    | | |   |   |-(B=100 T=Bovidae 10100246 102,107)
+    |  | | |    | | |   |   | |-(1027807 103,104) bos_taurus ENSBTAG00000000988 (BRCA2) 12:28637213-28688200
+    |  | | |    | | |   |   | |-(1027770 105,106) ovis_aries ENSOARG00000011179 (BRCA2) 10:28872321-28924433
+    |  | | |    | | |   |   |-(1027824 108,109) tursiops_truncatus ENSTTRG00000010541 (BRCA2) GeneScaffold_3256:41151-92800
+    |  | | |    | | |   |-(1027783 112,113) vicugna_pacos ENSVPAG00000000886 (BRCA2) GeneScaffold_1422:28074-80684
+    |  | | |    | | |-(1027784 116,117) equus_caballus ENSECAG00000014890 (BRCA2) 17:11512132-11574407
+    |  | | |    | |-(B=34 T=Insectivora 10100252 119,124)
+    |  | | |    |   |--(1027817 120,121) erinaceus_europaeus ENSEEUG00000009739 (BRCA2) GeneScaffold_4361:961-62824
+    |  | | |    |   |--(1027775 122,123) sorex_araneus ENSSARG00000002755 (BRCA2) GeneScaffold_591:245736-329655
+    |  | | |    |-(DD  SIS=0 B=0 T=Sarcopterygii 10100253 126,207)
+    |  | | |      |-(B=0 T=Euarchontoglires 10100254 127,156)
+    |  | | |      | |-(B=3 T=Glires 10100255 128,153)
+    |  | | |      | | |-(B=6 T=Rodentia 10100257 129,146)
+    |  | | |      | | | |-(B=6 T=Sciurognathi 10100258 130,143)
+    |  | | |      | | | | |-(B=23 T=Sciurognathi 10100259 131,140)
+    |  | | |      | | | | | |--(B=100 T=Murinae 10100260 132,137)
+    |  | | |      | | | | | |  |-(1027773 133,134) mus_musculus ENSMUSG00000041147 (Brca2) 5:150522630-150569746
+    |  | | |      | | | | | |  |-(1027819 135,136) rattus_norvegicus ENSRNOG00000001111 (Brca2) 12:491025-531766
+    |  | | |      | | | | | |--(1027789 138,139) dipodomys_ordii ENSDORG00000007049 (Brca2) GeneScaffold_1038:358641-411759
+    |  | | |      | | | | |-(1027809 141,142) ictidomys_tridecemlineatus ENSSTOG00000005517 (BRCA2) JH393282.1:26945680-27015735
+    |  | | |      | | | |--(1027813 144,145) cavia_porcellus ENSCPOG00000005153 (BRCA2) scaffold_6:33778275-33853154
+    |  | | |      | | |-(B=100 T=Lagomorpha 10100256 147,152)
+    |  | | |      | |   |-(1027771 148,149) oryctolagus_cuniculus ENSOCUG00000016878 (BRCA2) GL018702:3042658-3113023
+    |  | | |      | |   |--(1027782 150,151) ochotona_princeps ENSOPRG00000015365 (BRCA2) GeneScaffold_410:590036-664083
+    |  | | |      | |-(1027820 154,155) tupaia_belangeri ENSTBEG00000015907 (BRCA2) GeneScaffold_2732:1286-173851
+    |  | | |      |-(DD  SIS=0 B=3 T=Sarcopterygii 10100261 157,206)
+    |  | | |        |-(B=4 T=Primates 10100271 158,167)
+    |  | | |        | |-(B=100 T=Strepsirrhini 10100272 159,164)
+    |  | | |        | | |-(1027821 160,161) microcebus_murinus ENSMICG00000011994 (BRCA2) GeneScaffold_1468:1090539-1158098
+    |  | | |        | | |-(1027802 162,163) otolemur_garnettii ENSOGAG00000010588 (BRCA2) GL873639.1:315573-415772
+    |  | | |        | |-(1027765 165,166) tarsius_syrichta ENSTSYG00000000478 (BRCA2) GeneScaffold_7779:11488-76077
+    |  | | |        |-(DD  SIS=0 B=6 T=Sarcopterygii 10100262 168,205)
+    |  | | |          |(B=73 T=Simiiformes 10100264 169,198)
+    |  | | |          ||-(B=73 T=Catarrhini 10100265 170,195)
+    |  | | |          || |-(B=88 T=Hominoidea 10100267 171,188)
+    |  | | |          || | |-(B=98 T=Hominidae 10100268 172,185)
+    |  | | |          || | | |-(B=100 T=Homininae 10100269 173,182)
+    |  | | |          || | | | |-(B=100 T=Homininae 10100270 174,179)
+    |  | | |          || | | | | |-(1027767 175,176) homo_sapiens ENSG00000139618 (BRCA2) 13:32315474-32400266
+    |  | | |          || | | | | |-(1027787 177,178) pan_troglodytes ENSPTRG00000005766 (BRCA2) 13:31957353-32040817
+    |  | | |          || | | | |-(1027798 180,181) gorilla_gorilla ENSGGOG00000015808 (BRCA2) 13:14169243-14261094
+    |  | | |          || | | |-(1027804 183,184) pongo_abelii ENSPPYG00000005264 (BRCA2) 13:31850770-31940736
+    |  | | |          || | |-(1027790 186,187) nomascus_leucogenys ENSNLEG00000001048 (BRCA2) GL397329.1:5273331-5357426
+    |  | | |          || |-(B=73 T=Cercopithecinae 10100266 189,194)
+    |  | | |          ||   |-(1027825 190,191) macaca_mulatta ENSMMUG00000007197 (BRCA2) 17:11687584-11777925
+    |  | | |          ||   |-(1027788 192,193) chlorocebus_sabaeus ENSCSAG00000017920 (BRCA2) 3:11071682-11155213
+    |  | | |          ||-(1027774 196,197) callithrix_jacchus ENSCJAG00000018462 (BRCA2) 5:145430371-145527428
+    |  | | |          |-(B=12 T=Sarcopterygii 10100263 199,204)
+    |  | | |            |(1027764 200,201) papio_anubis ENSPANG00000013323 (BRCA2) 17:11280025-11304342
+    |  | | |            |--------(1027785 202,203) latimeria_chalumnae ENSLACG00000007788 (BRCA2) JH127744.1:299190-332700
+    |  | | |--(B=91 T=Marsupialia 10100277 210,219)
+    |  | |    |-(B=91 T=Marsupialia 10100278 211,216)
+    |  | |    | |-(1027786 212,213) monodelphis_domestica ENSMODG00000009516 (BRCA2) 4:304116271-304197558
+    |  | |    | |-(1027816 214,215) sarcophilus_harrisii ENSSHAG00000010421 (BRCA2) GL849705.1:683545-750243
+    |  | |    |-(1027794 217,218) macropus_eugenii ENSMEUG00000010691 (BRCA2) GeneScaffold_5009:8209-57002
+    |  | |----(Dup SIS=100.00 B=99 T=Ornithorhynchus anatinus 10100235 221,226)
+    |  |      |(1027781 222,223) ornithorhynchus_anatinus ENSOANG00000015481 Ultra336:825655-866744
+    |  |      |-(1027812 224,225) ornithorhynchus_anatinus ENSOANG00000030391 Contig35657:828-3008
+    |  |--(B=72 T=Sauria 10100228 228,253)
+    |     |-(B=76 T=Testudines + Archosauria group 10100229 229,250)
+    |     | |---(B=100 T=Neognathae 10100230 230,247)
+    |     | |   |-(B=100 T=Galloanserae 10100231 231,240)
+    |     | |   | |-(B=100 T=Phasianidae 10100232 232,237)
+    |     | |   | | |-(1027778 233,234) gallus_gallus ENSGALG00000017073 (BRCA2) 1:173820724-173857456
+    |     | |   | | |-(1027793 235,236) meleagris_gallopavo ENSMGAG00000015077 (BRCA2) 1:182034286-182069530
+    |     | |   | |--(1027805 238,239) anas_platyrhynchos ENSAPLG00000007774 (BRCA2) KB742680.1:477155-513214
+    |     | |   |-(B=100 T=Passeriformes 10100233 241,246)
+    |     | |     |-(1027808 242,243) ficedula_albicollis ENSFALG00000008451 (BRCA2) JH603207.1:3296246-3332661
+    |     | |     |-(1027799 244,245) taeniopygia_guttata ENSTGUG00000011763 (BRCA2) 1:50805062-50838975
+    |     | |--(1027768 248,249) pelodiscus_sinensis ENSPSIG00000011574 (BRCA2) JH209329.1:1531099-1613422
+    |     |----(1027814 251,252) anolis_carolinensis ENSACAG00000004541 (BRCA2) 3:183721796-183749387
+    |--------(1027797 255,256) xenopus_tropicalis ENSXETG00000017011 (brca2) GL172716.1:1071058-1096238

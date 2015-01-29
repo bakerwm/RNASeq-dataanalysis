@@ -1,0 +1,260 @@
+ortholog_one2one [Homininae]
+ENSEMBLGENE ENSGGOG00000003744 (gorilla_gorilla)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2one [Hominidae]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSPPYG00000019531 (pongo_abelii)
+
+ortholog_one2one [Hominoidea]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSNLEG00000016803 (nomascus_leucogenys)
+
+within_species_paralog [Hominoidea]
+ENSEMBLGENE ENSG00000228278 (homo_sapiens)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2many [Catarrhini]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSPANG00000025785 (papio_anubis)
+
+ortholog_one2many [Catarrhini]
+ENSEMBLGENE ENSCSAG00000012930 (chlorocebus_sabaeus)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2many [Catarrhini]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMMUG00000008015 (macaca_mulatta)
+
+ortholog_one2many [Simiiformes]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSCJAG00000004491 (callithrix_jacchus)
+
+ortholog_one2many [Primates]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSOGAG00000010078 (otolemur_garnettii)
+
+ortholog_one2many [Primates]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMICG00000015294 (microcebus_murinus)
+
+ortholog_many2many [Euarchontoglires]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMUSG00000028359 (mus_musculus)
+
+ortholog_one2many [Euarchontoglires]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSSTOG00000012755 (ictidomys_tridecemlineatus)
+
+ortholog_many2many [Euarchontoglires]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMUSG00000039196 (mus_musculus)
+
+ortholog_one2many [Euarchontoglires]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSOPRG00000005699 (ochotona_princeps)
+
+ortholog_one2many [Euarchontoglires]
+ENSEMBLGENE ENSOCUG00000004625 (oryctolagus_cuniculus)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2many [Euarchontoglires]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSRNOG00000007886 (rattus_norvegicus)
+
+ortholog_many2many [Euarchontoglires]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMUSG00000061540 (mus_musculus)
+
+ortholog_many2many [Euarchontoglires]
+ENSEMBLGENE ENSTBEG00000017380 (tupaia_belangeri)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2many [Euarchontoglires]
+ENSEMBLGENE ENSCPOG00000019592 (cavia_porcellus)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_many2many [Euarchontoglires]
+ENSEMBLGENE ENSTBEG00000017480 (tupaia_belangeri)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2many [Euarchontoglires]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSDORG00000008193 (dipodomys_ordii)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSSARG00000012284 (sorex_araneus)
+
+ortholog_one2many [Boreoeutheria]
+ENSEMBLGENE ENSMPUG00000001619 (mustela_putorius_furo)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSAMEG00000012556 (ailuropoda_melanoleuca)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSSARG00000013153 (sorex_araneus)
+
+ortholog_one2many [Boreoeutheria]
+ENSEMBLGENE ENSFCAG00000000166 (felis_catus)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSSARG00000011862 (sorex_araneus)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2many [Boreoeutheria]
+ENSEMBLGENE ENSCAFG00000003331 (canis_familiaris)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSSARG00000013918 (sorex_araneus)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSSARG00000005145 (sorex_araneus)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSSARG00000006100 (sorex_araneus)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMLUG00000029558 (myotis_lucifugus)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSSSCG00000027008 (sus_scrofa)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMLUG00000028886 (myotis_lucifugus)
+
+ortholog_one2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSPVAG00000000049 (pteropus_vampyrus)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSMLUG00000009197 (myotis_lucifugus)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMLUG00000024647 (myotis_lucifugus)
+
+ortholog_one2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSBTAG00000017294 (bos_taurus)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSECAG00000007625 (equus_caballus)
+
+ortholog_one2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSTTRG00000005483 (tursiops_truncatus)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSSSCG00000005488 (sus_scrofa)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSOARG00000006050 (ovis_aries)
+
+ortholog_many2many [Boreoeutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSECAG00000006234 (equus_caballus)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSPCAG00000000006 (procavia_capensis)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_one2many [Eutheria]
+ENSEMBLGENE ENSETEG00000014783 (echinops_telfairi)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSLAFG00000000508 (loxodonta_africana)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSLAFG00000013705 (loxodonta_africana)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSPCAG00000002915 (procavia_capensis)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSDNOG00000038534 (dasypus_novemcinctus)
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSDNOG00000015191 (dasypus_novemcinctus)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSCHOG00000010355 (choloepus_hoffmanni)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSCHOG00000002092 (choloepus_hoffmanni)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSDNOG00000017842 (dasypus_novemcinctus)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSDNOG00000030782 (dasypus_novemcinctus)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSCHOG00000005025 (choloepus_hoffmanni)
+
+ortholog_many2many [Eutheria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSCHOG00000004169 (choloepus_hoffmanni)
+
+ortholog_one2many [Theria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSSHAG00000003219 (sarcophilus_harrisii)
+
+ortholog_one2many [Theria]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMODG00000003862 (monodelphis_domestica)
+
+ortholog_one2many [Mammalia]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSOANG00000013663 (ornithorhynchus_anatinus)
+
+ortholog_one2many [Amniota]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSPSIG00000017695 (pelodiscus_sinensis)
+
+ortholog_one2many [Amniota]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSMGAG00000003544 (meleagris_gallopavo)
+
+ortholog_one2many [Amniota]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSFALG00000001295 (ficedula_albicollis)
+
+ortholog_one2many [Amniota]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSTGUG00000003499 (taeniopygia_guttata)
+
+ortholog_one2many [Amniota]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSGALG00000005099 (gallus_gallus)
+
+ortholog_one2many [Amniota]
+ENSEMBLGENE ENSG00000229314 (homo_sapiens)
+ENSEMBLGENE ENSAPLG00000002600 (anas_platyrhynchos)
+

@@ -1,0 +1,299 @@
+Found 37 genomes of bacillus_subtilis
+Write these results to: bsubtilis.db
+
+1
+dbname: bacteria_70_collection_core_25_78_1 
+Species_id: 136 
+Species: bacillus_subtilis_subsp_niger       
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+2
+dbname: bacteria_8_collection_core_25_78_1 
+Species_id: 238 
+Species: bacillus_subtilis_subsp_subtilis_str_sc_8 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+3
+dbname: bacteria_26_collection_core_25_78_1 
+Species_id: 104 
+Species: bacillus_subtilis_subsp_subtilis_str_bsp1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+4
+dbname: bacteria_79_collection_core_25_78_1 
+Species_id: 58 
+Species: bacillus_subtilis_gca_000738015_1   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+5
+dbname: bacteria_85_collection_core_25_78_1 
+Species_id: 204 
+Species: bacillus_subtilis_gca_000772165_1   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+6
+dbname: bacteria_4_collection_core_25_78_1 
+Species_id: 170 
+Species: bacillus_subtilis_subsp_natto_best195 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+7
+dbname: bacteria_25_collection_core_25_78_1 
+Species_id: 187 
+Species: bacillus_subtilis_best7613          
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+8
+dbname: bacteria_51_collection_core_25_78_1 
+Species_id: 204 
+Species: bacillus_subtilis_best7003          
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+9
+dbname: bacteria_70_collection_core_25_78_1 
+Species_id: 194 
+Species: bacillus_subtilis_subsp_subtilis_str_ag1839 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+10
+dbname: bacteria_80_collection_core_25_78_1 
+Species_id: 32 
+Species: bacillus_subtilis_subsp_subtilis_gca_000740485_1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+11
+dbname: bacteria_19_collection_core_25_78_1 
+Species_id: 233 
+Species: bacillus_subtilis_subsp_spizizenii_str_w23 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+12
+dbname: bacteria_87_collection_core_25_78_1 
+Species_id: 51 
+Species: bacillus_subtilis_gca_000769515_1   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+13
+dbname: bacteria_84_collection_core_25_78_1 
+Species_id: 131 
+Species: bacillus_subtilis_toa               
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+14
+dbname: bacteria_65_collection_core_25_78_1 
+Species_id: 226 
+Species: bacillus_subtilis_subsp_subtilis_gca_000740475_1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+15
+dbname: bacteria_80_collection_core_25_78_1 
+Species_id: 29 
+Species: bacillus_subtilis_gca_000735115_1   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+16
+dbname: bacteria_25_collection_core_25_78_1 
+Species_id: 203 
+Species: bacillus_subtilis_subsp_inaquosorum_kctc_13429 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+17
+dbname: bacteria_70_collection_core_25_78_1 
+Species_id: 198 
+Species: bacillus_subtilis_gca_000691185_1   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+18
+dbname: bacteria_69_collection_core_25_78_1 
+Species_id: 109 
+Species: bacillus_subtilis_subsp_subtilis_str_jh642_substr_ag174 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+19
+dbname: bacteria_32_collection_core_25_78_1 
+Species_id: 3 
+Species: bacillus_subtilis_mb73_2            
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+20
+dbname: bacteria_58_collection_core_25_78_1 
+Species_id: 1 
+Species: bacillus_subtilis_py79              
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+21
+dbname: bacteria_9_collection_core_25_78_1 
+Species_id: 224 
+Species: bacillus_subtilis_qb928             
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+22
+dbname: bacteria_3_collection_core_25_78_1 
+Species_id: 235 
+Species: bacillus_subtilis_bsn5              
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+23
+dbname: bacteria_8_collection_core_25_78_1 
+Species_id: 234 
+Species: bacillus_subtilis_subsp_subtilis_str_ro_nn_1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+24
+dbname: bacteria_70_collection_core_25_78_1 
+Species_id: 58 
+Species: bacillus_subtilis_subsp_subtilis_str_oh_131_1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+25
+dbname: bacteria_79_collection_core_25_78_1 
+Species_id: 17 
+Species: bacillus_subtilis_qh_1              
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+26
+dbname: bacteria_28_collection_core_25_78_1 
+Species_id: 6 
+Species: bacillus_subtilis_subsp_subtilis_str_bab_1 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+27
+dbname: bacteria_76_collection_core_25_78_1 
+Species_id: 89 
+Species: bacillus_subtilis_e1                
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+28
+dbname: bacteria_87_collection_core_25_78_1 
+Species_id: 84 
+Species: bacillus_subtilis_gca_000772205_1   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+29
+dbname: bacteria_28_collection_core_25_78_1 
+Species_id: 49 
+Species: bacillus_subtilis_xf_1              
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+30
+dbname: bacteria_68_collection_core_25_78_1 
+Species_id: 32 
+Species: bacillus_subtilis_miyagi_4          
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+31
+dbname: bacteria_29_collection_core_25_78_1 
+Species_id: 207 
+Species: bacillus_subtilis_subsp_subtilis_6051_hgw 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+32
+dbname: bacteria_0_collection_core_25_78_1 
+Species_id: 84 
+Species: bacillus_subtilis_subsp_subtilis_str_168 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+33
+dbname: bacteria_62_collection_core_25_78_1 
+Species_id: 250 
+Species: bacillus_subtilis_gca_000740715_1   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+34
+dbname: bacteria_6_collection_core_25_78_1 
+Species_id: 150 
+Species: bacillus_subtilis_subsp_spizizenii_atcc_6633 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+35
+dbname: bacteria_87_collection_core_25_78_1 
+Species_id: 67 
+Species: bacillus_subtilis_gca_000772125_1   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+36
+dbname: bacteria_13_collection_core_25_78_1 
+Species_id: 120 
+Species: bacillus_subtilis_subsp_spizizenii_tu_b_10 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+37
+dbname: bacteria_64_collection_core_25_78_1 
+Species_id: 145 
+Species: bacillus_subtilis_gca_000743215_1   
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+

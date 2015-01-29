@@ -1,0 +1,72 @@
+GO:0000724 double-strand break repair via homologous recombination
+GO:0000724 double-strand break repair via homologous recombination
+GO:0000910 cytokinesis
+GO:0001556 oocyte maturation
+GO:0001833 inner cell mass cell proliferation
+GO:0002020 protease binding
+GO:0003697 single-stranded DNA binding
+GO:0005515 protein binding
+GO:0005515 protein binding
+GO:0005634 nucleus
+GO:0005634 nucleus
+GO:0005654 nucleoplasm
+GO:0005737 cytoplasm
+GO:0005737 cytoplasm
+GO:0005813 centrosome
+GO:0006281 DNA repair
+GO:0006289 nucleotide-excision repair
+GO:0006302 double-strand break repair
+GO:0006302 double-strand break repair
+GO:0006974 cellular response to DNA damage stimulus
+GO:0006978 DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator
+GO:0007141 male meiosis I
+GO:0007283 spermatogenesis
+GO:0007420 brain development
+GO:0007569 cell aging
+GO:0008283 cell proliferation
+GO:0008585 female gonad development
+GO:0008630 intrinsic apoptotic signaling pathway in response to DNA damage
+GO:0010165 response to X-ray
+GO:0010225 response to UV-C
+GO:0010332 response to gamma radiation
+GO:0010484 H3 histone acetyltransferase activity
+GO:0010485 H4 histone acetyltransferase activity
+GO:0030097 hemopoiesis
+GO:0030141 secretory granule
+GO:0032465 regulation of cytokinesis
+GO:0033593 BRCA2-MAGE-D1 complex
+GO:0033600 negative regulation of mammary gland epithelial cell proliferation
+GO:0042771 intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+GO:0043009 chordate embryonic development
+GO:0043015 gamma-tubulin binding
+GO:0043234 protein complex
+GO:0043966 histone H3 acetylation
+GO:0043967 histone H4 acetylation
+GO:0045893 positive regulation of transcription, DNA-templated
+GO:0045931 positive regulation of mitotic cell cycle
+GO:0048478 replication fork protection
+GO:0051276 chromosome organization
+GO:0051298 centrosome duplication
+GO:0000724 double-strand break repair via homologous recombination
+GO:0000910 cytokinesis
+GO:0002020 protease binding
+GO:0003697 single-stranded DNA binding
+GO:0005515 protein binding
+GO:0005634 nucleus
+GO:0005654 nucleoplasm
+GO:0005737 cytoplasm
+GO:0005813 centrosome
+GO:0006281 DNA repair
+GO:0006289 nucleotide-excision repair
+GO:0006302 double-strand break repair
+GO:0010484 H3 histone acetyltransferase activity
+GO:0010485 H4 histone acetyltransferase activity
+GO:0030141 secretory granule
+GO:0033593 BRCA2-MAGE-D1 complex
+GO:0033600 negative regulation of mammary gland epithelial cell proliferation
+GO:0043015 gamma-tubulin binding
+GO:0043234 protein complex
+GO:0043966 histone H3 acetylation
+GO:0043967 histone H4 acetylation
+GO:0045893 positive regulation of transcription, DNA-templated
+GO:0051298 centrosome duplication

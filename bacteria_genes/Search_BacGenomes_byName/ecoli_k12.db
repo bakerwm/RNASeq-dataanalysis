@@ -1,0 +1,43 @@
+Found 5 genomes of escherichia_coli_str_k_12
+Write these results to: ecoli_k12.db
+
+1
+dbname: bacteria_48_collection_core_25_78_1 
+Species_id: 131 
+Species: escherichia_coli_str_k_12_substr_mc4100 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+2
+dbname: bacteria_0_collection_core_25_78_1 
+Species_id: 99 
+Species: escherichia_coli_str_k_12_substr_mg1655 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+3
+dbname: bacteria_23_collection_core_25_78_1 
+Species_id: 86 
+Species: escherichia_coli_str_k_12_substr_w3110 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+4
+dbname: bacteria_27_collection_core_25_78_1 
+Species_id: 134 
+Species: escherichia_coli_str_k_12_substr_mds42 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
+5
+dbname: bacteria_9_collection_core_25_78_1 
+Species_id: 243 
+Species: escherichia_coli_str_k_12_substr_dh10b 
+host: mysql-eg-publicsql.ebi.ac.uk 
+port: 4157 
+user: anonymous 
+
