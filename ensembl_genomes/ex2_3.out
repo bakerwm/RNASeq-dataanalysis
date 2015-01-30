@@ -1,0 +1,16 @@
+Retrieve genes from a given family, of specific genomes
+Input family: MF_00395	Cytb6_f_PetN
+Find members of taxid 1219 in this family
+
+GeneID	Species
+A9601_08011	petN	prochlorococcus_marinus_str_as9601
+PMT9312_0748	-	prochlorococcus_marinus_str_mit_9312
+P9301_08001	petN	prochlorococcus_marinus_str_mit_9301
+PMT_0673	petN	prochlorococcus_marinus_str_mit_9313
+P9211_08411	petN	prochlorococcus_marinus_str_mit_9211
+PMM0740	petN	prochlorococcus_marinus_subsp_pastoris_str_ccmp1986
+NATL1_09621	petN	prochlorococcus_marinus_str_natl1a
+Pro_0918	petN	prochlorococcus_marinus_subsp_marinus_str_ccmp1375
+PMN2A_0290	-	prochlorococcus_marinus_str_natl2a
+P9202_1289	-	prochlorococcus_marinus_str_mit_9202
+P9303_15511	petN	prochlorococcus_marinus_str_mit_9303
