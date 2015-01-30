@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-use Bio::EnsEMBL::Registry;
+#use Bio::EnsEMBL::Registry;
 use Bio::EnsEMBL::LookUp;
 use Bio::SeqIO;
 
@@ -16,19 +16,15 @@ my $input_family = 'MF_00395';
 # lookup
 my $lookup = Bio::EnsEMBL::LookUp->new();
 
-# load registry
-my $reg = 'Bio::EnsEMBL::Registry';
-$reg->load_registry_from_db(
+# load compara 
+my $compara_dba = Bio::EnsEMBL::Compara::DBSQL::DBAdaptor->new(
         -host => 'mysql-eg-publicsql.ebi.ac.uk',
         -port => '4157',
-        -user => 'anonymous'
+        -user => 'anonymous',
+        -dbname => 'ensembl_compara_bacteria_25_78'
         );
 
-# load compara family adaptor
-my $family_adaptor = $reg->get_adaptor(
-        'bacteria', 'compara', 'family'
-        );
-my $family = $family_adaptor->fetch_by_stable_id($input_family);
+my $family = $compara_dba->get_FamilyAdaptor()->fetch_by_stable_id($input_family);
 
 my $outfile = ">". $family->stable_id. ".fa";
 my $seq_out = Bio::SeqIO->new(-file => $outfile,
