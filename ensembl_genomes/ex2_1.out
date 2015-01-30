@@ -1,6 +1,5 @@
-Retrieve the family of input gene: Rv2925c
-From genome: mycobacterium_tuberculosis_h37rv_gca_000195955_2
+Retrieve the family of input gene: b0344
+From genome: escherichia_coli_str_k_12_substr_mg1655
 
 Family	Family_description
-MF_00104	RNase_III
-PTHR11207	PTHR11207
+MF_01687	Beta_gal
