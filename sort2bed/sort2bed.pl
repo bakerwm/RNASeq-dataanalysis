@@ -35,7 +35,7 @@ pod2usage(-message => "Need choose input file: [-i|--input]") if(! $inFile);
 if(! $type){
     pod2usage(-message => "Need choose transform type: GFF|PTT|BED|Sort, eg: gff2bed");
 }else{
-    if($type =~ /^(gff|ptt|bed|sort)2(gff|ptt|bed|sort|fa)$/s){
+    if($type =~ /^(gff|ptt|bed|sort|blast)2(gff|ptt|bed|sort|blast|fa)$/s){
         my ($t1, $t2) = $type =~ /^(\w+)2(\w+)$/;
         die "[-t $type] Choose another type" if ($t1 eq $t2);
     }else{
@@ -63,6 +63,8 @@ if($ta =~ /gff/s){
     %inData = &ReadBED($inFile);
 }elsif($ta =~ /sort/s){
     %inData = &ReadSort($inFile);
+}elsif($ta =~ /blast/s){
+    %inData = &ReadBlast($inFile);
 }else{
     
 }
@@ -211,7 +213,8 @@ sub ReadPTT{
     my $chr = '';
     open F, $g or die "Cannot open $g, $!";
     my $line = <F>;
-    ($chr) = (split /\|/, $line)[3];
+    $chr = (split /\s/, $line)[0]; $chr =~ s/\>//;
+#    ($chr) = (split /\|/, $line)[3];
     close F;
     open F2, "<$fh_ptt" or die "$!";
     while(my $i = <F2>){
@@ -246,6 +249,25 @@ sub ReadSort{
     return %out;
 }
 
+# Read blast
+sub ReadBlast{
+    my $fh_blast = shift(@_);
+    my %out = ();
+    my $count = 0;
+    open F, "< $fh_blast" or die "$!";
+    while(my $i = <F>){
+         chomp($i);
+         my ($q_name, $chrom, $s_start ,$s_end) = (split /\t/, $i)[0,1,8,9];
+         my $strand = '+';
+         ($s_start, $s_end, $strand) = ($s_end, $s_start, '-') if ($s_start > $s_end);
+         my $length = $s_end - $s_start + 1;
+         $out{$q_name} = join "\t", ($chrom, $length, $s_start, $s_end, $strand);
+         $count ++;
+    }
+    pod2usage(-message => "Input not like a blast -m 8 output") if($count == 0);
+    return %out;
+}
+
 # Read FASTA
 sub ReadFa{
     my $fh_fa = shift(@_);
@@ -255,7 +277,7 @@ sub ReadFa{
     my $head = shift(@lines);
     my $id = (split /\s/,$head)[0];
     $id =~ s/\>//;
-    my $seq = join '', @lines;
+    my $seq = join '', @lines; $seq =~ s/\n//g;
     close F;
     return ($id,$seq);
 }
@@ -281,7 +303,7 @@ sub RevComp{
 
 =head1 NAME
 
-c<sort2bed.pl> -- Transform the format between GFF/BED/PTT/Txt/FASTA... 
+c<sort2bed.pl> -- Transform the format between GFF/BED/PTT/Sort/Blast/FASTA... 
 
 =head1 SYNOPSIS
 
@@ -293,7 +315,7 @@ perl sort2bed.pl -t sort2bed  -i input.bed -o out.bed
 
 =item B<-t>, B<--trans>
 
-Support the following transform:[gff|bed|sort|ptt]2fa, and 
+Support the following transform:[gff|bed|sort|ptt|blast]2fa, and 
 [between 2 of these: gff,bed,sort,ptt]
 
 =item B<-f>, B<--feature>
@@ -385,7 +407,7 @@ Example:
     9. Product - The product of the CDS.
 
 [Sorted]
-    A tab-separated file with 6-required files and 6-additional option fields. This file store the information of ncRNAs.
+    A tab-separated file with 6-required fields and 6-additional option fields. This file store the information of ncRNAs.
     
     1. name - The name of the line.
     2. chrom - The name of the chromosome or scaffold.
@@ -395,6 +417,22 @@ Example:
     6. strand - "+" or "-".
     7. pre_gene - The previous gene (left) of the seq.
     8. gap_1 - The distance between pre_gene and seq. (- to +)
+
+[Blast]
+    A tab-separated file with at least 12-required fields. The -m 8 output of blastn.
+
+    1. q_name   - The query name.
+    2. s_name   - The subject name, also the chromosome name.
+    3. Identity - The identity of the hit.
+    4. Length   - The lenght of the hit.
+    5. mismatch - The number of mismatches in the alignment.
+    6. gap      - The number of gaps in the alignment.
+    7. q_start  - The start of the query.
+    8. q_end    - The end of the query.
+    9. s_start  - The start of the subject.
+    10. s_end   - The end of the subject.
+    11. E-value - The e-value of the hit.
+    12. score   - The bit score of the hit.
 
 [FASTA]
     fasta file.

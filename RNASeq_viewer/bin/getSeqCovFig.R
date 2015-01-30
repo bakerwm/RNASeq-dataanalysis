@@ -33,16 +33,25 @@ library("ggplot2")
 library("plyr")
 library("bigmemory")
 
+# show work dir
+workDir <- getwd()
+print ( paste(c("Working path:", workDir), collapse=" ") )
+
 # Load parameters
-print("Usage: Rscript getSeqCovFig.R InDir InFile")
+Usage <- "Usage: Rscript getSeqCovFig.R <InDir> <InFile> <OutPdf>"
 args     <- commandArgs(trailingOnly=TRUE)
+if(length(args) != 3) stop(Usage)
+    
 InDir    <- args[1]
 InFile   <- args[2]
-FlankGap <- 200
-#print(c("Input para:", args))
+OutPdf   <- args[3]
+print( paste(c("Input para: Rscript getSeqCovFig.R", args), collapse=" ") )
 
+################
+FlankGap <- 200
 #InDir  <- "Rv.coverage"
 #InFile <- "test.txt"
+################
 
 # Read in seq info
 InLists <- read.table(InFile, comment.char="")
@@ -52,6 +61,7 @@ InLists$Note   <- apply(InLists[, c(1,3:6)], 1, paste, collapse=":")
 
 # Create Cov Index
 CovFiles <- dir(InDir, ".coverage.")
+if(length(CovFiles) < 2 ) stop ("Check cov files in : InDir")
 CovNames <- strsplit(CovFiles, "\\.")
 CovIndex <- data.frame(matrix(unlist(CovNames), length(CovFiles), byrow=TRUE))
 names(CovIndex)   <- c("Strain", "LibType", "Cov", "Strand")
@@ -69,7 +79,7 @@ CovIndex <- CovIndex[c("Strain", "Strand", "LibType", "LibName", "Filename",
 # Create bin & desc files for each coverage file
 #dir.create(paste(InDir, "desc", sep="/"), showWarnings=FALSE)
 CheckDesc <- dir(path="./", pattern="*.desc")
-if(length(CheckDesc) < 1) {
+if(length(CheckDesc) != nrow(CovIndex) ) {
     for(i in 1:nrow(CovIndex)) {
         tFile <- CovIndex$FilePath[i]
         tbin  <- CovIndex$Bigbin[i]
@@ -82,8 +92,9 @@ if(length(CheckDesc) < 1) {
     }    
 }
 
-pdf("ReadsCov.pdf", width=8, height=6)
+#pdf("ReadsCov.pdf", width=8, height=6)
 
+pdf(OutPdf, width=8, height=6)
 tm <- theme(axis.line  = element_line(colour="black"),
             axis.title = element_text(size=16, colour="black"),
             axis.text  = element_text(size=12, colour="black"),
@@ -108,7 +119,6 @@ system.time(
         xEnd   <- 10 * floor(LinePos$End/10)
         xStep  <- 10 * floor(floor(LinePos$Length/7)/10)
         xBreak <- seq(xStart, xEnd, by=xStep)        
-        
         p1 <- ggplot(LineData, aes(x=Position, y=Count)) +
             geom_area(fill="black") + 
             geom_vline(xintercept=c(FigBegin, FigEnd), colour="blue",

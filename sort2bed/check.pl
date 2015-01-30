@@ -11,10 +11,10 @@ die "Files not found at: [$in_dir]" if (@files < 5);
 
 my $genome = 'example/test.fa';
 my $feature = 'gene';
-my @types = ('gff', 'ptt', 'bed', 'sort', 'fa');
+my @types = ('gff', 'ptt', 'bed', 'sort', 'fa', 'blast');
 
 foreach my $f (@files){
-    next unless($f =~ /.(gff|ptt|bed|txt)$/);
+    next unless($f =~ /.(gff|ptt|bed|txt|blast)$/);
     my ($in_type) = $f =~ /\.(\w+)$/;
     $in_type = 'sort' if($in_type eq 'txt');
     foreach my $out_type (@types){

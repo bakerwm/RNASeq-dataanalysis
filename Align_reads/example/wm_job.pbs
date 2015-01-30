@@ -1,0 +1,12 @@
+#PBS -S /bin/bash
+#PBS -q Debug
+#PBS -N Align_job.pbs
+#PBS -o /home/wangming/work/Identify_sRNA/example/job.out
+#PBS -e /home/wangming/work/Identify_sRNA/example/job.err
+
+cd $PBS_O_WORKDIR
+#nohup  sh YOUR.sh > YOUR.sh.log &
+
+# Write your Command here ... : Check the queue: Debug/General
+# sh  $PBS_O_WORKDIR/work.sh       > $PBS_O_WORKDIR/work.sh.log
+sh out.sh > out.sh.log
