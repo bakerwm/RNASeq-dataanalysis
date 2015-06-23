@@ -1,0 +1,24 @@
+# Download genome annotation files or SRA data from NCBI ftp
+
+## Examples
+
+1. Download one genome by full name
+
+ascp_download.pl -t bac -o out Mycobacterium_JDM601_uid67369
+
+2. search multiple genomes, from a id list
+
+ascp_download.pl -t bac -o out bac.list
+
+3. Download genomes with part name: (H37Rv, NC_000962)
+
+ascp_download.pl -t bac -o out -d bacteria.info -m search  H37Rv
+
+4. Download SRA data by specific ID: SRR/ERR/DRR
+
+ascp_download.pl -t sra -o out SRR123456
+
+or from a id.list
+
+ascp_download.pl -t sra -o out sra.list
+
