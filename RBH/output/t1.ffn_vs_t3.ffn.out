@@ -1,0 +1,597 @@
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:1-1524 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:1-1524	gi|148659757|ref|NC_009525.1|:1-1524	100.00	1524	0	0	1	1524	1	1524	0.0	 2815
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:2052-3260 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:2052-3260	gi|148659757|ref|NC_009525.1|:2052-3260	100.00	1209	0	0	1	1209	1	1209	0.0	 2233
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:3280-4437 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:3280-4437	gi|148659757|ref|NC_009525.1|:3280-4437	100.00	1158	0	0	1	1158	1	1158	0.0	 2139
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:4434-4997 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:4434-4997	gi|148659757|ref|NC_009525.1|:4434-4997	100.00	564	0	0	1	564	1	564	0.0	 1042
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:5123-7267 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:5123-7267	gi|148659757|ref|NC_009525.1|:5123-7267	100.00	2145	0	0	1	2145	1	2145	0.0	 3962
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:7302-9818 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:7302-9818	gi|148659757|ref|NC_009525.1|:7302-9818	100.00	2517	0	0	1	2517	1	2517	0.0	 4649
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:9914-10828 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:9914-10828	gi|148659757|ref|NC_009525.1|:9914-10828	100.00	915	0	0	1	915	1	915	0.0	 1690
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c12311-11874 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c12311-11874	gi|148659757|ref|NC_009525.1|:c12311-11874	100.00	438	0	0	1	438	1	438	0.0	  809
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:12468-13016 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:12468-13016	gi|148659757|ref|NC_009525.1|:12468-13016	100.00	549	0	0	1	549	1	549	0.0	 1014
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c13558-13133 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c13558-13133	gi|148659757|ref|NC_009525.1|:c13558-13133	100.00	426	0	0	1	426	1	426	0.0	  787
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c13995-13714 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c13995-13714	gi|148659757|ref|NC_009525.1|:c15353-15072	100.00	282	0	0	1	282	1	282	2e-150	  521
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:14089-14877 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:14089-14877	gi|148659757|ref|NC_009525.1|:15447-16235	99.87	789	1	0	1	789	1	789	0.0	 1452
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:14914-15612 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:14914-15612	gi|148659757|ref|NC_009525.1|:16272-16970	100.00	699	0	0	1	699	1	699	0.0	 1291
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c17470-15590 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c17470-15590	gi|148659757|ref|NC_009525.1|:c18828-16948	100.00	1881	0	0	1	1881	1	1881	0.0	 3474
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c18762-17467 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c18762-17467	gi|148659757|ref|NC_009525.1|:c20120-18825	100.00	1296	0	0	1	1296	1	1296	0.0	 2394
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c20234-18759 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c20234-18759	gi|148659757|ref|NC_009525.1|:c21592-20117	100.00	1476	0	0	1	1476	1	1476	0.0	 2726
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c21640-20231 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c21640-20231	gi|148659757|ref|NC_009525.1|:c22998-21589	100.00	1410	0	0	1	1410	1	1410	0.0	 2604
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c23181-21637 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c23181-21637	gi|148659757|ref|NC_009525.1|:c24539-22995	100.00	1545	0	0	1	1545	1	1545	0.0	 2854
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c23737-23270 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c23737-23270	gi|148659757|ref|NC_009525.1|:c25095-24628	100.00	468	0	0	1	468	1	468	0.0	  865
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c25444-23861 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c25444-23861	gi|148659757|ref|NC_009525.1|:c26802-25219	100.00	1584	0	0	1	1584	1	1584	0.0	 2926
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c26881-25913 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c26881-25913	gi|148659757|ref|NC_009525.1|:c28239-27271	100.00	969	0	0	1	969	1	969	0.0	 1790
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c27442-27023 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|57116681|ref|NC_000962.2|:c27442-27023	gi|148659757|ref|NC_009525.1|:c28800-28381	100.00	420	0	0	1	420	1	420	0.0	  776
+gi|57116681|ref|NC_000962.2|:c27442-27023	gi|148659757|ref|NC_009525.1|:28351-28659	100.00	279	0	0	142	420	309	31	1e-148	  516
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:27595-28365 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:27595-28365	gi|148659757|ref|NC_009525.1|:28953-29723	100.00	771	0	0	1	771	1	771	0.0	 1424
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:28362-29207 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:28362-29207	gi|148659757|ref|NC_009525.1|:29720-30565	100.00	846	0	0	1	846	1	846	0.0	 1563
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:29245-29607 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:29245-29607	gi|148659757|ref|NC_009525.1|:30603-30965	100.00	363	0	0	1	363	1	363	0.0	  671
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:29722-31068 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:29722-31068	gi|148659757|ref|NC_009525.1|:31080-32426	100.00	1347	0	0	1	1347	1	1347	0.0	 2488
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:31189-31506 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:31189-31506	gi|148659757|ref|NC_009525.1|:32547-32864	100.00	318	0	0	1	318	1	318	2e-170	  588
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:31514-31819 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:31514-31819	gi|148659757|ref|NC_009525.1|:32872-33177	100.00	306	0	0	1	306	1	306	1e-163	  566
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:32057-33154 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:32057-33154	gi|148659757|ref|NC_009525.1|:33415-34512	100.00	1098	0	0	1	1098	1	1098	0.0	 2028
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:33224-33553 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:33224-33553	gi|148659757|ref|NC_009525.1|:34582-34911	100.00	330	0	0	1	330	1	330	5e-177	  610
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:33582-33794 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:33582-33794	gi|148659757|ref|NC_009525.1|:34940-35152	100.00	213	0	0	1	213	1	213	3e-112	  394
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:34295-36610 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|57116681|ref|NC_000962.2|:34295-36610	gi|148659757|ref|NC_009525.1|:35653-37968	100.00	2316	0	0	1	2316	1	2316	0.0	 4277
+gi|57116681|ref|NC_000962.2|:34295-36610	gi|148659757|ref|NC_009525.1|:35653-37968	100.00	30	0	0	233	262	262	233	2e-09	56.5
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:36607-36870 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:36607-36870	gi|148659757|ref|NC_009525.1|:37965-38228	100.00	264	0	0	1	264	1	264	2e-140	  488
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:36867-37262 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:36867-37262	gi|148659757|ref|NC_009525.1|:38225-38620	100.00	396	0	0	1	396	1	396	0.0	  732
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:37259-38947 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:37259-38947	gi|148659757|ref|NC_009525.1|:38617-40305	100.00	1689	0	0	1	1689	1	1689	0.0	 3120
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c39829-39056 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c39829-39056	gi|148659757|ref|NC_009525.1|:c41187-40414	100.00	774	0	0	1	774	1	774	0.0	 1430
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c41202-39877 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c41202-39877	gi|148659757|ref|NC_009525.1|:c42560-41235	99.92	1326	1	0	1	1326	1	1326	0.0	 2444
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:41304-41912 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:41304-41912	gi|148659757|ref|NC_009525.1|:42662-43270	100.00	609	0	0	1	609	1	609	0.0	 1125
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c42351-42004 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c42351-42004	gi|148659757|ref|NC_009525.1|:c43709-43362	100.00	348	0	0	1	348	1	348	0.0	  643
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c43365-42433 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c43365-42433	gi|148659757|ref|NC_009525.1|:c44723-43791	100.00	933	0	0	1	933	1	933	0.0	 1724
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:43562-46471 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:43562-46471	gi|148659757|ref|NC_009525.1|:44920-47829	100.00	2910	0	0	1	2910	1	2910	0.0	 5374
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c47207-46581 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c47207-46581	gi|148659757|ref|NC_009525.1|:c48565-47939	100.00	627	0	0	1	627	1	627	0.0	 1158
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c48100-47366 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c48100-47366	gi|148659757|ref|NC_009525.1|:c49458-48724	100.00	735	0	0	1	735	1	735	0.0	 1358
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c49027-48233 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c49027-48233	gi|148659757|ref|NC_009525.1|:c50385-49591	100.00	795	0	0	1	795	1	795	0.0	 1469
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c49939-49043 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c49939-49043	gi|148659757|ref|NC_009525.1|:c51297-50401	100.00	897	0	0	1	897	1	897	0.0	 1657
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c51124-50021 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c51124-50021	gi|148659757|ref|NC_009525.1|:c52482-51379	100.00	1104	0	0	1	1104	1	1104	0.0	 2039
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c51727-51185 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c51727-51185	gi|148659757|ref|NC_009525.1|:c53085-52543	100.00	543	0	0	1	543	1	543	0.0	 1003
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c52697-51828 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c52697-51828	gi|148659757|ref|NC_009525.1|:c54055-53186	100.00	870	0	0	1	870	1	870	0.0	 1607
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:52831-53244 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:52831-53244	gi|148659757|ref|NC_009525.1|:54189-54602	100.00	414	0	0	1	414	1	414	0.0	  765
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:53663-55699 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:53663-55699	gi|148659757|ref|NC_009525.1|:55021-57057	99.95	2037	1	0	1	2037	1	2037	0.0	 3757
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:55696-57378 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:55696-57378	gi|148659757|ref|NC_009525.1|:57054-58736	100.00	1683	0	0	1	1683	1	1683	0.0	 3109
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:57398-57973 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:57398-57973	gi|148659757|ref|NC_009525.1|:58768-59331	100.00	564	0	0	13	576	1	564	0.0	 1042
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:58192-58482 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:58192-58482	gi|148659757|ref|NC_009525.1|:59550-59840	100.00	291	0	0	1	291	1	291	2e-155	  538
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:58586-59080 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:58586-59080	gi|148659757|ref|NC_009525.1|:59944-60438	100.00	495	0	0	1	495	1	495	0.0	  915
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:59122-59376 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:59122-59376	gi|148659757|ref|NC_009525.1|:60480-60734	100.00	255	0	0	1	255	1	255	2e-135	  472
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:59409-59867 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:59409-59867	gi|148659757|ref|NC_009525.1|:60767-61225	100.00	459	0	0	1	459	1	459	0.0	  848
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:59896-60417 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:59896-60417	gi|148659757|ref|NC_009525.1|:61254-61775	100.00	522	0	0	1	522	1	522	0.0	  965
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:60396-63020 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:60396-63020	gi|148659757|ref|NC_009525.1|:61754-64378	100.00	2625	0	0	1	2625	1	2625	0.0	 4848
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:63200-63892 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:63200-63892	gi|148659757|ref|NC_009525.1|:64558-65250	100.00	693	0	0	1	693	1	693	0.0	 1280
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:63909-64967 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:63909-64967	gi|148659757|ref|NC_009525.1|:65267-66325	100.00	1059	0	0	1	1059	1	1059	0.0	 1956
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:64991-65416 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:64991-65416	gi|148659757|ref|NC_009525.1|:66349-66774	100.00	426	0	0	1	426	1	426	0.0	  787
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:65552-66694 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:65552-66694	gi|148659757|ref|NC_009525.1|:66910-68052	100.00	1143	0	0	1	1143	1	1143	0.0	 2111
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:66923-68362 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:66923-68362	gi|148659757|ref|NC_009525.1|:68281-69720	100.00	1440	0	0	1	1440	1	1440	0.0	 2660
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:68620-71559 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:68620-71559	gi|148659757|ref|NC_009525.1|:69978-72917	99.97	2940	1	0	1	2940	1	2940	0.0	 5424
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:71821-72222 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:71821-72222	gi|148659757|ref|NC_009525.1|:73179-73580	100.00	402	0	0	1	402	1	402	0.0	  743
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c74511-72274 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c74511-72274	gi|148659757|ref|NC_009525.1|:c75869-73632	100.00	2238	0	0	1	2238	1	2238	0.0	 4133
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c75198-74629 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c75198-74629	gi|148659757|ref|NC_009525.1|:c76556-75987	100.00	570	0	0	1	570	1	570	0.0	 1053
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:75301-76212 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:75301-76212	gi|148659757|ref|NC_009525.1|:76659-77570	100.00	912	0	0	1	912	1	912	0.0	 1685
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c77622-76237 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c77622-76237	gi|148659757|ref|NC_009525.1|:c78980-77595	100.00	1386	0	0	1	1386	1	1386	0.0	 2560
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c78896-77619 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c78896-77619	gi|148659757|ref|NC_009525.1|:c80254-78977	100.00	1278	0	0	1	1278	1	1278	0.0	 2361
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:79486-80193 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:79486-80193	gi|148659757|ref|NC_009525.1|:80844-81551	100.00	708	0	0	1	708	1	708	0.0	 1308
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:80624-81673 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:80624-81673	gi|148659757|ref|NC_009525.1|:81982-83031	100.00	1050	0	0	1	1050	1	1050	0.0	 1940
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:81676-82668 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:81676-82668	gi|148659757|ref|NC_009525.1|:83034-84026	100.00	993	0	0	1	993	1	993	0.0	 1834
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:82748-83983 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:82748-83983	gi|148659757|ref|NC_009525.1|:84106-85341	100.00	1236	0	0	1	1236	1	1236	0.0	 2283
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:83996-85168 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:83996-85168	gi|148659757|ref|NC_009525.1|:85354-86526	100.00	1173	0	0	1	1173	1	1173	0.0	 2167
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c85572-85183 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c85572-85183	gi|148659757|ref|NC_009525.1|:c86930-86541	100.00	390	0	0	1	390	1	390	0.0	  721
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c86466-85636 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c86466-85636	gi|148659757|ref|NC_009525.1|:c87824-86994	100.00	831	0	0	1	831	1	831	0.0	 1535
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:86528-87133 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:86528-87133	gi|148659757|ref|NC_009525.1|:87886-88491	100.00	606	0	0	1	606	1	606	0.0	 1120
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c87801-87208 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c87801-87208	gi|148659757|ref|NC_009525.1|:c89159-88566	100.00	594	0	0	1	594	1	594	0.0	 1098
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:88204-89025 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:88204-89025	gi|148659757|ref|NC_009525.1|:89562-90383	100.00	822	0	0	1	822	1	822	0.0	 1519
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:89022-89480 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:89022-89480	gi|148659757|ref|NC_009525.1|:90380-90838	100.00	459	0	0	1	459	1	459	0.0	  848
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:89575-89919 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:89575-89919	gi|148659757|ref|NC_009525.1|:90933-91277	100.00	345	0	0	1	345	1	345	0.0	  638
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:89924-90403 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:89924-90403	gi|148659757|ref|NC_009525.1|:91282-91761	99.79	480	1	0	1	480	1	480	0.0	  881
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:90400-92322 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:90400-92322	gi|148659757|ref|NC_009525.1|:91758-93680	99.95	1923	1	0	1	1923	1	1923	0.0	 3546
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:92328-93278 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:92328-93278	gi|148659757|ref|NC_009525.1|:93686-94636	100.00	951	0	0	1	951	1	951	0.0	 1757
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:93289-93951 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:93289-93951	gi|148659757|ref|NC_009525.1|:94647-95309	100.00	663	0	0	1	663	1	663	0.0	 1225
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:93951-95417 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:93951-95417	gi|148659757|ref|NC_009525.1|:95309-96775	100.00	1467	0	0	1	1467	1	1467	0.0	 2710
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:95414-96892 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:95414-96892	gi|148659757|ref|NC_009525.1|:96772-98250	100.00	1479	0	0	1	1479	1	1479	0.0	 2732
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:96927-97601 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:96927-97601	gi|148659757|ref|NC_009525.1|:98285-98959	100.00	675	0	0	1	675	1	675	0.0	 1247
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:97758-98351 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:97758-98351	gi|148659757|ref|NC_009525.1|:99116-99709	100.00	594	0	0	1	594	1	594	0.0	 1098
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:98480-99250 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:98480-99250	gi|148659757|ref|NC_009525.1|:99838-100608	100.00	771	0	0	1	771	1	771	0.0	 1424
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:99684-100451 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:99684-100451	gi|148659757|ref|NC_009525.1|:101042-101809	100.00	768	0	0	1	768	1	768	0.0	 1419
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:100583-102868 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|57116681|ref|NC_000962.2|:100583-102868	gi|148659757|ref|NC_009525.1|:101941-104226	100.00	2286	0	0	1	2286	1	2286	0.0	 4222
+gi|57116681|ref|NC_000962.2|:100583-102868	gi|148659757|ref|NC_009525.1|:c105021-104173	100.00	54	0	0	2233	2286	849	796	9e-23	  100
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c103663-102815 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|57116681|ref|NC_000962.2|:c103663-102815	gi|148659757|ref|NC_009525.1|:c105021-104173	100.00	849	0	0	1	849	1	849	0.0	 1568
+gi|57116681|ref|NC_000962.2|:c103663-102815	gi|148659757|ref|NC_009525.1|:101941-104226	100.00	54	0	0	796	849	2286	2233	3e-23	  100
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c104663-103710 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c104663-103710	gi|148659757|ref|NC_009525.1|:c106021-105068	100.00	954	0	0	1	954	1	954	0.0	 1762
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:c105215-104805 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|57116681|ref|NC_000962.2|:c105215-104805	gi|148659757|ref|NC_009525.1|:c106573-106163	100.00	411	0	0	1	411	1	411	0.0	  760
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:105324-106715 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:106734-107603 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:107600-108151 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: gi|57116681|ref|NC_000962.2|:108156-109778 Mycobacterium tuberculosis H37Rv chromosome, complete genome
+# Database: temp_28199_572812/t3.ffn
+# 0 hits found
+# BLAST processed 100 queries

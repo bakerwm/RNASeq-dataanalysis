@@ -6,7 +6,8 @@
 # ftp://ftp.ncbi.nlm.nih.gov/genomes/Bacteria
 #
 # Usage: perl ncbi_bac_genome_list.pl  
-# # waiting for XX minutes, depends on your network.
+#
+# use `GET` command to fetch content of a url
 #
 # WangMing wangmcas(AT)gmail.com
 # 2015-06-22 
@@ -14,13 +15,11 @@
 
 use strict;
 use warnings;
-#use LWP::Simple;
+use Getopt::Std;
 use POSIX qw(strftime);
 
-my $url = 'ftp://ftp.ncbi.nlm.nih.gov/genomes/Bacteria';
-
-my $max = shift or die "Usage: perl fetch_info.pl [2-20]\n";
-die("need input a integer:\n") if(! $max =~ /^\d+$/);
+my %genomes = ( 1 => 'Bacteria',
+                2 => 'Fungi');
 
 fetch_ncbi_acc();
 exit(1);
@@ -31,12 +30,20 @@ exit(1);
 # ncbi_bacteria_genomes_20150622_14-20-00.txt
 #
 sub fetch_ncbi_acc {
-    print '['. show_date() . ']'. ' Parsing genome names:' . "\n";
-    my @ids = parse_genome_id();
-    print '['. show_date() . ']'. ' Parsing accession IDs for each genome:'. "\n";
+    my %opts = (p => 10, n => 1);
+    getopts("p:n:h", \%opts);
+    die("[-p|-n] Input Integer:\n") unless($opts{p} =~ /^\d+$/ && $opts{n} =~ /^\d+$/);
+    die("[-n] unknown command: 1 or 2\n") unless(defined($genomes{$opts{n}}));
+    usage() if(@ARGV != 1);
     my $date = strftime "%Y%m%d", localtime;
-    my $bak_file = 'test_' . $date . '.txt';
-    my @out = mp_runs(\@ids, $bak_file); # using fork to clone N process
+    my $outfile = $ARGV[0] . '_' . $date . '.txt';
+    my $max = $opts{p};
+    my $url = 'ftp://ftp.ncbi.nlm.nih.gov/genomes/' . $genomes{$opts{n}};
+    print '['. show_date() . ']'. ' Parsing genome names:' . "\n";
+    # main process
+    my @ids = parse_genome_id($url);
+    print '['. show_date() . ']'. ' Parsing accession IDs for each genome:'. "\n";
+    my @out = mp_runs(\@ids, $outfile, $max, $url); # using fork to clone N process
 }
 
 sub show_date {
@@ -44,8 +51,10 @@ sub show_date {
     return $date;
 }
 
+# start N child processes at once ()
+#
 sub mp_runs {
-    my ($n, $f) = @_;
+    my ($n, $f, $max, $url) = @_;
     my @names = @$n;
     my @pids  = ();
     my $children = 0;
@@ -65,23 +74,23 @@ sub mp_runs {
             $children ++; # add a child process
             push @pids, $pid; # 
         }else { # this is child proc
-            my $info = child($names[$i]); # run in child proc
+            my $info = child($names[$i], $url); # run in child proc
             print $fh_f $info . "\n";
             exit 0; # terminate this child proc
         }
     }
-
+    # wait for all child to finish.
     for my $n (@pids) {
         my $chk  = waitpid($n, 0);
         my $info = $? >> 8; # remove signal / dump bits from rc
         print "PID $n finished with info $info\n";
     }
     close $fh_f;
-
+    # run child proc
     sub child {
-        my $id = $_[0];
-        my $id_acc  = read_genome_dir($id);
-        sleep(1);
+        my ($id, $url) = @_;
+        my $id_acc  = read_genome_dir($id, $url);
+        sleep(2);
         return "$id\t$id_acc";
     }
 }
@@ -92,6 +101,7 @@ sub mp_runs {
 # dr-xr-xr-x   2 ftp      anonymous     4096 Dec  6  2010 Mycobacterium_tuberculosis_H37Rv_uid57777
 #
 sub parse_genome_id {
+    my $url = shift(@_);
     my $content = qx{GET $url};
     die "Could not get $url\n" unless defined $content;
     my @lines = split /\n/, $content;
@@ -111,7 +121,7 @@ sub parse_genome_id {
 # -r--r--r--   1 ftp      anonymous   157421 Oct 22  2010 NC_009932.fna
 #
 sub read_genome_dir {
-    my $id = shift(@_);
+    my ($id, $url) = @_;
     my $sub_url = $url . '/' . $id;
     my $sub_content = qx{GET $sub_url};
     warn "Could not get $sub_url\n" unless defined $sub_content;
@@ -126,3 +136,17 @@ sub read_genome_dir {
     return $note;
 }
 
+# usage
+sub usage {
+    die(qq/
+Usage: fetch_ncbi_info.pl [Options] <output>
+
+Options: -p <INT>   : start N child process at once: (2-20) [10]
+         -n <INT>   : choose genomes: 1=Bacteria, 2=Fungi [1]
+         output     : write the result to file
+
+Example:
+fetch_ncbi_info.pl -p 20 -n 1 Bacteria > bac.log
+fetch_ncbi_info.pl -p 10 -n 2 Fungi    > fungi.log
+\n/);
+}

@@ -1,0 +1,603 @@
+# BLASTP 2.2.30+
+# Query: gi|397671779|ref|YP_006513313.1| chromosomal replication initiator protein dnaA [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671779|ref|YP_006513313.1|	gi|148659758|ref|YP_001281281.1|	100.00	507	0	0	1	507	1	507	0.0	 1039
+# BLASTP 2.2.30+
+# Query: gi|397671780|ref|YP_006513314.1| DNA polymerase III subunit beta [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671780|ref|YP_006513314.1|	gi|148659759|ref|YP_001281282.1|	100.00	402	0	0	1	402	1	402	0.0	  788
+# BLASTP 2.2.30+
+# Query: gi|397671781|ref|YP_006513315.1| DNA replication and repair protein RecF [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671781|ref|YP_006513315.1|	gi|148659760|ref|YP_001281283.1|	100.00	385	0	0	1	385	1	385	0.0	  754
+# BLASTP 2.2.30+
+# Query: gi|397671782|ref|YP_006513316.1| hypothetical protein RVBD_0004 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671782|ref|YP_006513316.1|	gi|148659761|ref|YP_001281284.1|	100.00	187	0	0	1	187	1	187	1e-131	  364
+# BLASTP 2.2.30+
+# Query: gi|397671783|ref|YP_006513317.1| DNA gyrase subunit B [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671783|ref|YP_006513317.1|	gi|148659762|ref|YP_001281285.1|	100.00	714	0	0	1	714	1	714	0.0	 1466
+# BLASTP 2.2.30+
+# Query: gi|397671784|ref|YP_006513318.1| DNA gyrase subunit A [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671784|ref|YP_006513318.1|	gi|148659763|ref|YP_001281286.1|	100.00	838	0	0	1	838	1	838	0.0	 1686
+# BLASTP 2.2.30+
+# Query: gi|397671785|ref|YP_006513319.1| hypothetical protein RVBD_0007 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671785|ref|YP_006513319.1|	gi|148659764|ref|YP_001281287.1|	100.00	304	0	0	1	304	1	304	0.0	  596
+# BLASTP 2.2.30+
+# Query: gi|397671786|ref|YP_006513320.1| hypothetical protein RVBD_0007Ac [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# 0 hits found
+# BLASTP 2.2.30+
+# Query: gi|397671787|ref|YP_006513321.1| hypothetical protein RVBD_0007Bc [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# 0 hits found
+# BLASTP 2.2.30+
+# Query: gi|397671788|ref|YP_006513322.1| membrane protein [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671788|ref|YP_006513322.1|	gi|148659765|ref|YP_001281288.1|	100.00	145	0	0	1	145	1	145	3e-100	  281
+# BLASTP 2.2.30+
+# Query: gi|397671789|ref|YP_006513323.1| peptidyl-prolyl cis-trans isomerase A [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671789|ref|YP_006513323.1|	gi|148659766|ref|YP_001281289.1|	100.00	182	0	0	1	182	1	182	3e-135	  373
+# BLASTP 2.2.30+
+# Query: gi|397671790|ref|YP_006513324.1| hypothetical protein RVBD_0010c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671790|ref|YP_006513324.1|	gi|148659767|ref|YP_001281290.1|	100.00	141	0	0	1	141	1	141	6e-98	  275
+# BLASTP 2.2.30+
+# Query: gi|397671791|ref|YP_006513325.1| hypothetical protein RVBD_0011c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671791|ref|YP_006513325.1|	gi|148659770|ref|YP_001281293.1|	100.00	93	0	0	1	93	1	93	1e-64	  186
+# BLASTP 2.2.30+
+# Query: gi|397671792|ref|YP_006513326.1| hypothetical protein RVBD_0012 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671792|ref|YP_006513326.1|	gi|148659771|ref|YP_001281294.1|	100.00	262	0	0	1	262	1	262	0.0	  531
+# BLASTP 2.2.30+
+# Query: gi|397671793|ref|YP_006513327.1| anthranilate synthase component 2 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671793|ref|YP_006513327.1|	gi|148659772|ref|YP_001281295.1|	100.00	232	0	0	1	232	1	232	7e-173	  472
+# BLASTP 2.2.30+
+# Query: gi|397671794|ref|YP_006513328.1| serine/threonine-protein kinase pknB [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671794|ref|YP_006513328.1|	gi|148659773|ref|YP_001281296.1|	100.00	626	0	0	1	626	1	626	0.0	 1266
+gi|397671794|ref|YP_006513328.1|	gi|148659774|ref|YP_001281297.1|	43.08	260	142	3	7	265	9	263	8e-63	  209
+# BLASTP 2.2.30+
+# Query: gi|397671795|ref|YP_006513329.1| serine/threonine protein kinase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671795|ref|YP_006513329.1|	gi|148659774|ref|YP_001281297.1|	100.00	431	0	0	1	431	1	431	0.0	  861
+gi|397671795|ref|YP_006513329.1|	gi|148659773|ref|YP_001281296.1|	41.84	282	154	4	9	283	7	285	9e-66	  217
+# BLASTP 2.2.30+
+# Query: gi|397671796|ref|YP_006513330.1| penicillin-binding protein A [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671796|ref|YP_006513330.1|	gi|148659775|ref|YP_001281298.1|	100.00	491	0	0	1	491	1	491	0.0	  990
+gi|397671796|ref|YP_006513330.1|	gi|148659810|ref|YP_001281333.1|	25.67	409	242	15	100	489	241	606	6e-11	56.6
+# BLASTP 2.2.30+
+# Query: gi|397671797|ref|YP_006513331.1| cell division protein FtsW [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671797|ref|YP_006513331.1|	gi|148659776|ref|YP_001281299.1|	100.00	469	0	0	1	469	1	469	0.0	  926
+# BLASTP 2.2.30+
+# Query: gi|397671798|ref|YP_006513332.1| PP2C-family Ser/Thr phosphatase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671798|ref|YP_006513332.1|	gi|148659777|ref|YP_001281300.1|	100.00	514	0	0	1	514	1	514	0.0	 1021
+# BLASTP 2.2.30+
+# Query: gi|397671799|ref|YP_006513333.1| hypothetical protein RVBD_0019c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671799|ref|YP_006513333.1|	gi|148659778|ref|YP_001281301.1|	100.00	155	0	0	1	155	1	155	1e-109	  306
+gi|397671799|ref|YP_006513333.1|	gi|148659779|ref|YP_001281302.1|	32.53	83	55	1	72	154	444	525	2e-04	32.7
+# BLASTP 2.2.30+
+# Query: gi|397671800|ref|YP_006513334.1| hypothetical protein RVBD_0020c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671800|ref|YP_006513334.1|	gi|148659779|ref|YP_001281302.1|	100.00	527	0	0	1	527	1	527	0.0	 1020
+gi|397671800|ref|YP_006513334.1|	gi|148659778|ref|YP_001281301.1|	36.07	61	39	0	444	504	72	132	0.001	32.0
+# BLASTP 2.2.30+
+# Query: gi|397671801|ref|YP_006513335.1| nitronate monooxygenase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671801|ref|YP_006513335.1|	gi|148659780|ref|YP_001281303.1|	100.00	322	0	0	1	322	1	322	0.0	  640
+# BLASTP 2.2.30+
+# Query: gi|397671802|ref|YP_006513336.1| transcriptional regulator whib-like whiB5 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671802|ref|YP_006513336.1|	gi|148659782|ref|YP_001281305.1|	100.00	139	0	0	1	139	1	139	4e-101	  283
+# BLASTP 2.2.30+
+# Query: gi|397671803|ref|YP_006513337.1| transcriptional regulator [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671803|ref|YP_006513337.1|	gi|148659783|ref|YP_001281306.1|	100.00	256	0	0	1	256	1	256	0.0	  511
+# BLASTP 2.2.30+
+# Query: gi|397671804|ref|YP_006513338.1| secreted protein [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671804|ref|YP_006513338.1|	gi|148659784|ref|YP_001281307.1|	100.00	281	0	0	1	281	1	281	0.0	  551
+# BLASTP 2.2.30+
+# Query: gi|397671805|ref|YP_006513339.1| hypothetical protein RVBD_0025 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671805|ref|YP_006513339.1|	gi|148659785|ref|YP_001281308.1|	100.00	120	0	0	1	120	1	120	2e-80	  228
+gi|397671805|ref|YP_006513339.1|	gi|148659786|ref|YP_001281309.1|	36.84	95	56	3	22	115	93	184	8e-09	44.7
+# BLASTP 2.2.30+
+# Query: gi|397671806|ref|YP_006513340.1| hypothetical protein RVBD_0026 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671806|ref|YP_006513340.1|	gi|148659786|ref|YP_001281309.1|	100.00	448	0	0	1	448	1	448	0.0	  889
+gi|397671806|ref|YP_006513340.1|	gi|148659785|ref|YP_001281308.1|	36.04	111	67	3	77	184	6	115	8e-10	49.7
+# BLASTP 2.2.30+
+# Query: gi|397671807|ref|YP_006513341.1| hypothetical protein RVBD_0027 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671807|ref|YP_006513341.1|	gi|148659787|ref|YP_001281310.1|	100.00	105	0	0	1	105	1	105	1e-75	  215
+# BLASTP 2.2.30+
+# Query: gi|397671808|ref|YP_006513342.1| hypothetical protein RVBD_0028 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671808|ref|YP_006513342.1|	gi|148659788|ref|YP_001281311.1|	100.00	101	0	0	1	101	1	101	4e-72	  206
+# BLASTP 2.2.30+
+# Query: gi|397671809|ref|YP_006513343.1| hypothetical protein RVBD_0029 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671809|ref|YP_006513343.1|	gi|148659789|ref|YP_001281312.1|	100.00	365	0	0	1	365	1	365	0.0	  729
+# BLASTP 2.2.30+
+# Query: gi|397671810|ref|YP_006513344.1| hypothetical protein RVBD_0030 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671810|ref|YP_006513344.1|	gi|148659790|ref|YP_001281313.1|	100.00	109	0	0	1	109	1	109	1e-75	  216
+# BLASTP 2.2.30+
+# Query: gi|397671811|ref|YP_006513345.1| transposase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671811|ref|YP_006513345.1|	gi|148659791|ref|YP_001281314.1|	100.00	70	0	0	1	70	1	70	6e-48	  142
+# BLASTP 2.2.30+
+# Query: gi|397671812|ref|YP_006513346.1| 8-amino-7-oxononanoate synthase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671812|ref|YP_006513346.1|	gi|148659792|ref|YP_001281315.1|	100.00	771	0	0	1	771	1	771	0.0	 1582
+# BLASTP 2.2.30+
+# Query: gi|397671813|ref|YP_006513347.1| acyl carrier protein [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671813|ref|YP_006513347.1|	gi|148659793|ref|YP_001281316.1|	100.00	87	0	0	1	87	1	87	6e-61	  177
+# BLASTP 2.2.30+
+# Query: gi|397671814|ref|YP_006513348.1| hypothetical protein RVBD_0034 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671814|ref|YP_006513348.1|	gi|148659794|ref|YP_001281317.1|	100.00	131	0	0	1	131	1	131	8e-93	  261
+# BLASTP 2.2.30+
+# Query: gi|397671815|ref|YP_006513349.1| fatty-acid-CoA ligase FadD34 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671815|ref|YP_006513349.1|	gi|148659795|ref|YP_001281318.1|	100.00	562	0	0	1	562	1	562	0.0	 1148
+# BLASTP 2.2.30+
+# Query: gi|397671816|ref|YP_006513350.1| hypothetical protein RVBD_0036c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671816|ref|YP_006513350.1|	gi|148659796|ref|YP_001281319.1|	100.00	257	0	0	1	257	1	257	0.0	  506
+# BLASTP 2.2.30+
+# Query: gi|397671817|ref|YP_006513351.1| hypothetical protein RVBD_0037c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671817|ref|YP_006513351.1|	gi|148659797|ref|YP_001281320.1|	99.77	441	1	0	1	441	1	441	0.0	  843
+# BLASTP 2.2.30+
+# Query: gi|397671818|ref|YP_006513352.1| transcriptional regulator [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671818|ref|YP_006513352.1|	gi|148659798|ref|YP_001281321.1|	100.00	202	0	0	1	202	1	202	7e-146	  401
+# BLASTP 2.2.30+
+# Query: gi|397671819|ref|YP_006513353.1| hypothetical protein RVBD_0039c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671819|ref|YP_006513353.1|	gi|148659799|ref|YP_001281322.1|	100.00	115	0	0	1	115	1	115	3e-77	  220
+# BLASTP 2.2.30+
+# Query: gi|397671820|ref|YP_006513354.1| secreted proline rich protein mtc28 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671820|ref|YP_006513354.1|	gi|148659800|ref|YP_001281323.1|	100.00	310	0	0	1	310	1	310	0.0	  607
+# BLASTP 2.2.30+
+# Query: gi|397671821|ref|YP_006513355.1| leucyl-tRNA synthetase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671821|ref|YP_006513355.1|	gi|148659801|ref|YP_001281324.1|	100.00	969	0	0	1	969	1	969	0.0	 1972
+# BLASTP 2.2.30+
+# Query: gi|397671822|ref|YP_006513356.1| MarR family transcriptional regulator [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671822|ref|YP_006513356.1|	gi|148659802|ref|YP_001281325.1|	100.00	208	0	0	1	208	1	208	2e-149	  411
+# BLASTP 2.2.30+
+# Query: gi|397671823|ref|YP_006513357.1| GntR family transcriptional regulator [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671823|ref|YP_006513357.1|	gi|148659803|ref|YP_001281326.1|	100.00	244	0	0	1	244	1	244	0.0	  502
+# BLASTP 2.2.30+
+# Query: gi|397671824|ref|YP_006513358.1| oxidoreductase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671824|ref|YP_006513358.1|	gi|148659804|ref|YP_001281327.1|	100.00	264	0	0	1	264	1	264	0.0	  536
+# BLASTP 2.2.30+
+# Query: gi|397671825|ref|YP_006513359.1| hydrolase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671825|ref|YP_006513359.1|	gi|148659805|ref|YP_001281328.1|	100.00	298	0	0	1	298	1	298	0.0	  596
+# BLASTP 2.2.30+
+# Query: gi|397671826|ref|YP_006513360.1| inositol-3-phosphate synthase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671826|ref|YP_006513360.1|	gi|148659806|ref|YP_001281329.1|	100.00	367	0	0	1	367	1	367	0.0	  748
+# BLASTP 2.2.30+
+# Query: gi|397671827|ref|YP_006513361.1| hypothetical protein RVBD_0047c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671827|ref|YP_006513361.1|	gi|148659807|ref|YP_001281330.1|	100.00	180	0	0	1	180	1	180	2e-130	  360
+# BLASTP 2.2.30+
+# Query: gi|397671828|ref|YP_006513362.1| membrane protein [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671828|ref|YP_006513362.1|	gi|148659808|ref|YP_001281331.1|	100.00	289	0	0	1	289	1	289	0.0	  575
+# BLASTP 2.2.30+
+# Query: gi|397671829|ref|YP_006513363.1| hypothetical protein RVBD_0049 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671829|ref|YP_006513363.1|	gi|148659809|ref|YP_001281332.1|	100.00	137	0	0	1	137	1	137	1e-99	  279
+# BLASTP 2.2.30+
+# Query: gi|397671830|ref|YP_006513364.1| peptidoglycan glycosyltransferase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671830|ref|YP_006513364.1|	gi|148659810|ref|YP_001281333.1|	99.85	678	0	1	1	677	1	678	0.0	 1369
+gi|397671830|ref|YP_006513364.1|	gi|148659775|ref|YP_001281298.1|	25.67	409	242	15	241	606	100	489	1e-08	49.3
+# BLASTP 2.2.30+
+# Query: gi|397671831|ref|YP_006513365.1| hypothetical protein RVBD_0051 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671831|ref|YP_006513365.1|	gi|148659811|ref|YP_001281334.1|	100.00	560	0	0	1	560	1	560	0.0	 1117
+# BLASTP 2.2.30+
+# Query: gi|397671832|ref|YP_006513366.1| hypothetical protein RVBD_0052 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671832|ref|YP_006513366.1|	gi|148659812|ref|YP_001281335.1|	99.47	187	1	0	26	212	1	187	1e-136	  378
+# BLASTP 2.2.30+
+# Query: gi|397671833|ref|YP_006513367.1| 30S ribosomal protein S6 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671833|ref|YP_006513367.1|	gi|148659813|ref|YP_001281336.1|	100.00	96	0	0	1	96	1	96	7e-68	  195
+# BLASTP 2.2.30+
+# Query: gi|397671834|ref|YP_006513368.1| single-stranded DNA-binding protein [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671834|ref|YP_006513368.1|	gi|148659814|ref|YP_001281337.1|	100.00	164	0	0	1	164	1	164	3e-118	  328
+# BLASTP 2.2.30+
+# Query: gi|397671835|ref|YP_006513369.1| 30S ribosomal protein S18 1 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671835|ref|YP_006513369.1|	gi|148659815|ref|YP_001281338.1|	100.00	84	0	0	1	84	1	84	7e-59	  171
+# BLASTP 2.2.30+
+# Query: gi|397671836|ref|YP_006513370.1| 50S ribosomal protein L9 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671836|ref|YP_006513370.1|	gi|148659816|ref|YP_001281339.1|	100.00	152	0	0	1	152	1	152	1e-107	  300
+# BLASTP 2.2.30+
+# Query: gi|397671837|ref|YP_006513371.1| hypothetical protein RVBD_0057 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671837|ref|YP_006513371.1|	gi|148659817|ref|YP_001281340.1|	100.00	173	0	0	1	173	1	173	6e-127	  351
+# BLASTP 2.2.30+
+# Query: gi|397671838|ref|YP_006513372.1| replicative DNA helicase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671838|ref|YP_006513372.1|	gi|148659818|ref|YP_001281341.1|	100.00	874	0	0	1	874	1	874	0.0	 1781
+# BLASTP 2.2.30+
+# Query: gi|397671839|ref|YP_006513373.1| hypothetical protein RVBD_0059 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671839|ref|YP_006513373.1|	gi|148659819|ref|YP_001281342.1|	100.00	230	0	0	1	230	1	230	3e-175	  478
+# BLASTP 2.2.30+
+# Query: gi|397671840|ref|YP_006513374.1| hypothetical protein RVBD_0060 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671840|ref|YP_006513374.1|	gi|148659820|ref|YP_001281343.1|	100.00	352	0	0	1	352	1	352	0.0	  717
+# BLASTP 2.2.30+
+# Query: gi|397671841|ref|YP_006513375.1| hypothetical protein RVBD_0061Ac [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# 0 hits found
+# BLASTP 2.2.30+
+# Query: gi|397671842|ref|YP_006513376.1| endoglucanase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671842|ref|YP_006513376.1|	gi|148659822|ref|YP_001281345.1|	100.00	380	0	0	1	380	1	380	0.0	  763
+# BLASTP 2.2.30+
+# Query: gi|397671843|ref|YP_006513377.1| oxidoreductase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671843|ref|YP_006513377.1|	gi|148659823|ref|YP_001281346.1|	100.00	479	0	0	1	479	1	479	0.0	  961
+# BLASTP 2.2.30+
+# Query: gi|397671844|ref|YP_006513378.1| hypothetical protein RVBD_0064 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671844|ref|YP_006513378.1|	gi|148659824|ref|YP_001281347.1|	100.00	979	0	0	1	979	1	979	0.0	 1972
+# BLASTP 2.2.30+
+# Query: gi|397671845|ref|YP_006513379.1| antitoxin [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# 0 hits found
+# BLASTP 2.2.30+
+# Query: gi|397671846|ref|YP_006513380.1| toxin [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671846|ref|YP_006513380.1|	gi|148659825|ref|YP_001281348.1|	100.00	133	0	0	1	133	1	133	3e-94	  265
+# BLASTP 2.2.30+
+# Query: gi|397671847|ref|YP_006513381.1| isocitrate dehydrogenase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671847|ref|YP_006513381.1|	gi|148659826|ref|YP_001281349.1|	100.00	745	0	0	1	745	1	745	0.0	 1547
+# BLASTP 2.2.30+
+# Query: gi|397671848|ref|YP_006513382.1| TetR family transcriptional regulator [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671848|ref|YP_006513382.1|	gi|148659827|ref|YP_001281350.1|	100.00	189	0	0	1	189	1	189	1e-136	  377
+# BLASTP 2.2.30+
+# Query: gi|397671849|ref|YP_006513383.1| oxidoreductase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671849|ref|YP_006513383.1|	gi|148659828|ref|YP_001281351.1|	100.00	303	0	0	1	303	1	303	0.0	  610
+# BLASTP 2.2.30+
+# Query: gi|397671850|ref|YP_006513384.1| L-serine dehydratase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671850|ref|YP_006513384.1|	gi|148659829|ref|YP_001281352.1|	100.00	461	0	0	1	461	1	461	0.0	  934
+# BLASTP 2.2.30+
+# Query: gi|397671851|ref|YP_006513385.1| serine hydroxymethyltransferase 2 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671851|ref|YP_006513385.1|	gi|148659830|ref|YP_001281353.1|	100.00	425	0	0	1	425	1	425	0.0	  865
+# BLASTP 2.2.30+
+# Query: gi|397671852|ref|YP_006513386.1| RNA-directed DNA polymerase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671852|ref|YP_006513386.1|	gi|148659831|ref|YP_001281354.1|	100.00	235	0	0	1	235	1	235	7e-173	  473
+# BLASTP 2.2.30+
+# Query: gi|397671853|ref|YP_006513387.1| ABC transporter permease [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671853|ref|YP_006513387.1|	gi|148659832|ref|YP_001281355.1|	100.00	349	0	0	1	349	1	349	0.0	  679
+# BLASTP 2.2.30+
+# Query: gi|397671854|ref|YP_006513388.1| ABC transporter ATP-binding protein [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671854|ref|YP_006513388.1|	gi|148659833|ref|YP_001281356.1|	100.00	330	0	0	1	330	1	330	0.0	  660
+# BLASTP 2.2.30+
+# Query: gi|397671855|ref|YP_006513389.1| hypothetical protein RVBD_0074 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671855|ref|YP_006513389.1|	gi|148659834|ref|YP_001281357.1|	100.00	411	0	0	1	411	1	411	0.0	  816
+# BLASTP 2.2.30+
+# Query: gi|397671856|ref|YP_006513390.1| cystathionine beta-lyase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671856|ref|YP_006513390.1|	gi|148659835|ref|YP_001281358.1|	100.00	390	0	0	1	390	1	390	0.0	  790
+gi|397671856|ref|YP_006513390.1|	gi|148659792|ref|YP_001281315.1|	29.89	87	61	0	150	236	531	617	9e-04	33.1
+# BLASTP 2.2.30+
+# Query: gi|397671857|ref|YP_006513391.1| membrane protein [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671857|ref|YP_006513391.1|	gi|148659836|ref|YP_001281359.1|	100.00	129	0	0	1	129	1	129	3e-94	  265
+# BLASTP 2.2.30+
+# Query: gi|397671858|ref|YP_006513392.1| oxidoreductase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671858|ref|YP_006513392.1|	gi|148659837|ref|YP_001281360.1|	100.00	276	0	0	1	276	1	276	0.0	  556
+# BLASTP 2.2.30+
+# Query: gi|397671859|ref|YP_006513393.1| transcriptional regulator [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671859|ref|YP_006513393.1|	gi|148659838|ref|YP_001281361.1|	100.00	201	0	0	1	201	1	201	8e-143	  394
+gi|397671859|ref|YP_006513393.1|	gi|148659827|ref|YP_001281350.1|	50.00	28	14	0	39	66	38	65	0.004	28.9
+# BLASTP 2.2.30+
+# Query: gi|397671860|ref|YP_006513394.1| hypothetical protein RVBD_0078A [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671860|ref|YP_006513394.1|	gi|148659839|ref|YP_001281362.1|	100.00	197	0	0	1	197	1	197	6e-139	  383
+# BLASTP 2.2.30+
+# Query: gi|397671861|ref|YP_006513395.1| hypothetical protein RVBD_0078Bc [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671861|ref|YP_006513395.1|	gi|148659840|ref|YP_001281363.1|	100.00	68	0	0	1	68	1	68	3e-46	  138
+# BLASTP 2.2.30+
+# Query: gi|397671862|ref|YP_006513396.1| hypothetical protein RVBD_0079 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671862|ref|YP_006513396.1|	gi|148659841|ref|YP_001281364.1|	100.00	273	0	0	1	273	1	273	0.0	  542
+# BLASTP 2.2.30+
+# Query: gi|397671863|ref|YP_006513397.1| hypothetical protein RVBD_0080 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671863|ref|YP_006513397.1|	gi|148659842|ref|YP_001281365.1|	100.00	152	0	0	1	152	1	152	6e-106	  296
+# BLASTP 2.2.30+
+# Query: gi|397671864|ref|YP_006513398.1| ArsR family transcriptional regulator [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671864|ref|YP_006513398.1|	gi|148659843|ref|YP_001281366.1|	100.00	114	0	0	1	114	1	114	3e-77	  220
+# BLASTP 2.2.30+
+# Query: gi|397671865|ref|YP_006513399.1| oxidoreductase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671865|ref|YP_006513399.1|	gi|148659844|ref|YP_001281367.1|	100.00	159	0	0	1	159	1	159	4e-112	  312
+# BLASTP 2.2.30+
+# Query: gi|397671866|ref|YP_006513400.1| oxidoreductase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671866|ref|YP_006513400.1|	gi|148659845|ref|YP_001281368.1|	100.00	640	0	0	1	640	1	640	0.0	 1223
+gi|397671866|ref|YP_006513400.1|	gi|148659848|ref|YP_001281371.1|	33.13	332	187	8	72	381	87	405	5e-24	97.8
+# BLASTP 2.2.30+
+# Query: gi|397671867|ref|YP_006513401.1| formate hydrogenlyase hycD [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671867|ref|YP_006513401.1|	gi|148659846|ref|YP_001281369.1|	100.00	316	0	0	1	316	1	316	0.0	  595
+# BLASTP 2.2.30+
+# Query: gi|397671868|ref|YP_006513402.1| hydrogenase-4 component E [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671868|ref|YP_006513402.1|	gi|148659847|ref|YP_001281370.1|	100.00	220	0	0	1	220	1	220	1e-148	  410
+# BLASTP 2.2.30+
+# Query: gi|397671869|ref|YP_006513403.1| hydrogenase-4 component F [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+gi|397671869|ref|YP_006513403.1|	gi|148659848|ref|YP_001281371.1|	100.00	488	0	0	1	488	1	488	0.0	  920
+gi|397671869|ref|YP_006513403.1|	gi|148659845|ref|YP_001281368.1|	34.04	332	184	9	87	405	72	381	1e-29	  114
+# BLASTP 2.2.30+
+# Query: gi|397671870|ref|YP_006513404.1| oxidoreductase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671870|ref|YP_006513404.1|	gi|148659849|ref|YP_001281372.1|	100.00	492	0	0	1	492	1	492	0.0	  976
+# BLASTP 2.2.30+
+# Query: gi|397671871|ref|YP_006513405.1| hypothetical protein RVBD_0088 [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671871|ref|YP_006513405.1|	gi|148659850|ref|YP_001281373.1|	100.00	224	0	0	1	224	1	224	8e-166	  454
+# BLASTP 2.2.30+
+# Query: gi|397671872|ref|YP_006513406.1| methyltransferase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671872|ref|YP_006513406.1|	gi|148659851|ref|YP_001281374.1|	100.00	197	0	0	1	197	1	197	2e-144	  397
+# BLASTP 2.2.30+
+# Query: gi|397671873|ref|YP_006513407.1| membrane protein [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671873|ref|YP_006513407.1|	gi|148659852|ref|YP_001281375.1|	100.00	256	0	0	1	256	1	256	0.0	  506
+# BLASTP 2.2.30+
+# Query: gi|397671874|ref|YP_006513408.1| hypothetical protein RVBD_0090A [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# 0 hits found
+# BLASTP 2.2.30+
+# Query: gi|397671875|ref|YP_006513409.1| MTA/SAH nucleosidase [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671875|ref|YP_006513409.1|	gi|148659853|ref|YP_001281376.1|	100.00	255	0	0	1	255	1	255	0.0	  511
+# BLASTP 2.2.30+
+# Query: gi|397671876|ref|YP_006513410.1| cation-transporting P-type ATPase A [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671876|ref|YP_006513410.1|	gi|148659854|ref|YP_001281377.1|	100.00	761	0	0	1	761	1	761	0.0	 1504
+# BLASTP 2.2.30+
+# Query: gi|397671877|ref|YP_006513411.1| hypothetical protein RVBD_0093c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671877|ref|YP_006513411.1|	gi|148659855|ref|YP_001281378.1|	100.00	282	0	0	1	282	1	282	0.0	  556
+# BLASTP 2.2.30+
+# Query: gi|397671878|ref|YP_006513412.1| hypothetical protein RVBD_0094c [Mycobacterium tuberculosis H37Rv]
+# Database: temp_26136_645461/t3.faa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+gi|397671878|ref|YP_006513412.1|	gi|148659856|ref|YP_001281379.1|	100.00	317	0	0	1	317	1	317	0.0	  650
+# BLAST processed 100 queries
